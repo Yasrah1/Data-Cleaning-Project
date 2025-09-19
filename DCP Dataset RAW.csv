@@ -1,0 +1,1020 @@
+﻿Ship Mode,Segment,Country,City,State,Postal Code,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit,Notes,Purchase_Date
+Second Class,Consumer,United States,Henderson,Kentucky,42420,South,Furniture,Bookcases,261.96,2,0,41.9136,Check Later,not_a_date
+Second Class,Consumer,United States,Henderson,Kentucky,42420,South,Furniture,Chairs,731.94,3,0,219.582,,18/02/2024
+Second Class,Corporate,United States,Los Angeles,California,90036,West,Office Supplies,Labels,14.62,2,0,6.8714,,11-22-23
+Standard Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,Furniture,Tables,957.5775,5,0.45,-383.031,N/A,2023-06-29
+Standard Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,Office Supplies,Storage,22.368,2,0.2,2.5164,,20 May 2023
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Furniture,Furnishings,48.86,7,0,14.1694,,Nov-23
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Office Supplies,Art,7.28,4,0,1.9656,,07-22-24
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Technology,Phones,907.152,6,0.2,90.7152,Check Later,not_a_date
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Office Supplies,Binders,18.504,3,0.2,5.7825,,04 Aug 2024
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Office Supplies,Appliances,114.9,5,0,34.47,,not_a_date
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Furniture,Tables,1706.184,9,0.2,85.3092,,2023-05-28
+Standard Class,consumer,United States,Los Angeles,California,90032,West,Technology,Phones,,4,0.2,68.3568,,16 Jan 2023
+Standard Class,Consumer,United States,Concord,North Carolina,28027,South,Office Supplies,Paper,15.552,3,0.2,5.4432,Check Later,07-07-23
+Standard Class,Consumer,United States,Seattle,Washington,98103,West,Office Supplies,Binders,407.976,3,0.2,132.5922,Check Later,Sep-23
+Standard Class,Home Office,United States,Fort Worth,Texas,76106,Central,Office Supplies,Appliances,68.81,5,0.8,-123.858,,2023-03-15
+Standard Class,Home Office,United States,Fort Worth,Texas,76106,Central,Office Supplies,Binders,2.544,3,0.8,-3.816,,not_a_date
+Standard Class,Consumer,United States,Madison,Wisconsin,53711,Central,Office Supplies,Storage,665.88,6,0,13.3176,,2023-07-17
+Second Class,Consumer,United States,West Jordan,Utah,84084,West,Office Supplies,Storage,55.5,2,0,9.99,N/A,2023-07-25
+Second Class,Consumer,United States,San Francisco,California,94109,West,Office Supplies,Art,8.56,2,0,2.4824,,29 Sep 2023
+Second Class,Consumer,United States,San Francisco,California,94109,West,Technology,Phones,213.48,3,0.2,16.011,,04/05/2023
+2nd Class,Consumer,United States,San Francisco,California,94109,West,Office Supplies,Binders,22.72,4,0.2,7.384,Check Later,10 Apr 2023
+Standard Class,Corporate,United States,Fremont,Nebraska,68025,Central,Office Supplies,Art,19.46,7,0,5.0596,,08-25-24
+Standard Class,Corporate,United States,Fremont,Nebraska,68025,Central,Office Supplies,Appliances,60.34,7,0,15.6884,Check Later,not_a_date
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,71.372,2,0.3,-1.0196,,02-20-24
+Standard Class,Consumer,United States,Orem,Utah,84057,West,Furniture,Tables,1044.63,3,0,240.2649,,not_a_date
+Second Class,Consumer,United States,Los Angeles,California,90049,West,Office Supplies,Binders,11.648,2,0.2,4.2224,,not_a_date
+Second Class,Consumer,United States,Los Angeles,California,90049,West,Technology,Accessories,90.57,3,0,11.7741,N/A,23/11/2024
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Bookcases,3083.43,7,0.5,-1665.0522,,Oct-24
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,9.618,2,0.7,-7.0532,Check Later,2023-04-07
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,124.2,3,0.2,15.525,,2023-09-23
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Envelopes,3.264,2,0.2,1.1016,,02/04/2023
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Art,86.304,6,0.2,9.7092,,2024-10-13
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,6.858,6,0.7,-5.715,Check Later,11/05/2024
+Standard Class,consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Art,,2,0.2,3.546,,20/03/2023
+Second Class,Home Office,United States,Houston,Texas,77095,Central,Office Supplies,Paper,29.472,3,0.2,9.9468,Check Later,not_a_date
+First Class,Corporate,United States,Richardson,Texas,75080,Central,Technology,Phones,1097.544,7,0.2,123.4737,,2023-09-05
+First Class,Corporate,United States,Richardson,Texas,75080,Central,Furniture,Furnishings,190.92,5,0.6,-147.963,,04/10/2024
+Standard Class,Home Office,United States,Houston,Texas,77041,Central,Office Supplies,Envelopes,113.328,9,0.2,35.415,Check Later,12-28-23
+Standard Classs,Home Office,United States,Houston,Texas,77041,Central,Furniture,Bookcases,532.3992,3,0.32,-46.9764,,not_a_date
+Standard Class,Home Office,United States,Houston,Texas,77041,Central,Furniture,Chairs,212.058,3,0.3,-15.147,Check Later,08 Sep 2023
+Standard Class,Home Office,United States,Houston,Texas,77041,Central,Technology,Phones,371.168,4,0.2,41.7564,Check Later,09-30-24
+Standard Class,Corporate,United States,Naperville,Illinois,60540,Central,,Phones,147.168,4,0.2,16.5564,Check Later,not_a_date
+Standard Class,Corporate,United States,Los Angeles,California,90049,West,Office Supplies,Storage,77.88,2,0,3.894,,09-24-24
+Standard Class,Corporate,United States,Melbourne,Florida,32935,South,Office Supplies,Storage,95.616,2,0.2,9.5616,,28 Jan 2023
+First Class,Corporate,United States,Eagan,Minnesota,55122,Central,Technology,Accessories,45.98,2,0,19.7714,,03 Sep 2024
+First Class,Corporate,United States,Eagan,Minnesota,55122,Central,Office Supplies,Binders,17.46,2,0,8.2062,N/A,Jan-24
+Second Class,Consumer,United States,Westland,Michigan,48185,Central,Office Supplies,Storage,211.96,4,0,8.4784,N/A,19/08/2023
+Standard Class,Consumer,United States,Dover,Delaware,19901,East,Technology,Accessories,45,3,0,4.95,Check Later,01-16-24
+Standard Class,Consumer,United States,Dover,Delaware,19901,East,Technology,Phones,21.8,2,0,6.104,,11-03-24
+Standard Class,Consumer,United States,New Albany,Indiana,47150,Central,Office Supplies,Binders,38.22,6,0,17.9634,,not_a_date
+Standard Class,Consumer,United States,New Albany,Indiana,47150,Central,Office Supplies,Labels,75.18,6,0,35.3346,Check Later,02/07/2024
+Standard Class,Consumer,United States,New Albany,Indiana,47150,Central,Furniture,Furnishings,6.16,2,0,2.9568,,2023-05-20
+Standard Class,Consumer,United States,New Albany,Indiana,47150,Central,Furniture,Chairs,89.99,1,0,17.0981,,12/01/2024
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Fasteners,15.26,7,0,6.2566,Check Later,Jul-24
+Standard Class,Corporate,United States,New York City,New York,10024,East,Technology,Phones,1029.95,5,0,298.6855,Check Later,2024-05-13
+First Class,Consumer,United States,Troy,New York,12180,East,Office Supplies,Storage,208.56,6,0,52.14,,10-25-24
+First Class,Consumer,United States,Troy,New York,12180,East,Office Supplies,Paper,32.4,5,0,15.552,Check Later,not_a_date
+First Class,Consumer,United States,Troy,New York,12180,East,Furniture,Chairs,319.41,5,0.1,7.098,Check Later,12-11-23
+First Class,Consumer,United States,Troy,New York,12180,East,,Paper,14.56,0,0,6.9888,,08-31-23
+First Class,Consumer,United States,Troy,New York,12180,East,Technology,Accessories,30,2,0,3.3,Check Later,03 Dec 2023
+First Class,Consumer,United States,Troy,New York,12180,East,Office Supplies,Binders,48.48,4,0.2,16.362,Check Later,01-07-23
+First Class,Consumer,United States,Troy,New York,12180,East,Office Supplies,Art,1.68,1,0,0.84,Check Later,Mar-24
+Standard Class,Consumer,United States,Los Angeles,California,90004,West,Technology,Accessories,13.98,2,0,6.1512,,19 Oct 2024
+Standard Class,Consumer,United States,Los Angeles,California,90004,West,Office Supplies,Binders,25.824,6,0.2,9.3612,,10/05/2024
+Standard Class,Consumer,United States,Los Angeles,California,90004,West,Office Supplies,Paper,146.73,3,0,68.9631,,2023-10-28
+Standard Class,Consumer,United States,Los Angeles,California,90004,West,Furniture,Furnishings,79.76,4,0,22.3328,,14 Apr 2024
+Standard Class,Home Office,United States,Chicago,Illinois,60610,Central,Furniture,Chairs,213.115,5,0.3,-15.2225,,29 May 2023
+Standard Class,Corporate,United States,Gilbert,Arizona,85234,West,Office Supplies,Art,1113.024,8,0.2,111.3024,,2023-06-13
+Standard Class,Corporate,United States,Gilbert,Arizona,85234,West,Technology,Phones,167.968,4,0.2,62.988,,06/01/2024
+First Class,Consumer,United States,Springfield,Virginia,22153,South,Office Supplies,Paper,75.88,2,0,35.6636,,11-25-24
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,4.616,1,0.2,1.731,,Jul-24
+Second Class,Consumer,United States,Jackson,Michigan,49201,Central,Office Supplies,Paper,19.05,3,0,8.763,Check Later,not_a_date
+Standard Class,Consumer,United States,Memphis,Tennessee,38109,South,Furniture,Chairs,831.936,8,0.2,-114.3912,,27/01/2024
+Standard Class,Consumer,United States,Memphis,Tennessee,38109,South,Furniture,Furnishings,97.04,2,0.2,1.213,,2023-10-01
+Standard Class,Consumer,United States,Memphis,Tennessee,38109,South,Office Supplies,Storage,72.784,1,0.2,-18.196,,2024-02-25
+First Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Binders,1.248,3,0.8,-1.9344,,Apr-23
+First Class,Corporate,United States,Houston,Texas,77041,Central,Furniture,Furnishings,9.708,3,0.6,-5.8248,N/A,22 May 2023
+First Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Storage,27.24,3,0.2,2.724,,not_a_date
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Furnishings,19.3,5,0.6,-14.475,,not_a_date
+First Class,Corporate,United States,Decatur,Alabama,35601,South,Office Supplies,Appliances,208.16,1,0,56.2032,Check Later,02 Dec 2024
+First Class,Corporate,United States,Decatur,Alabama,35601,South,Office Supplies,Binders,16.74,3,0,8.0352,Check Later,2023-05-14
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Office Supplies,Art,14.9,5,0,4.172,,2023-08-16
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Office Supplies,Storage,21.39,1,0,6.2031,Check Later,Dec-23
+Standard Class,Corporate,United States,Durham,North Carolina,27707,South,Office Supplies,Envelopes,200.984,7,0.2,62.8075,Check Later,2024-12-06
+First Class,Home Office,United States,Chicago,Illinois,60623,Central,Office Supplies,Storage,230.376,3,0.2,-48.9549,Check Later,not_a_date
+Second Class,Consumer,United States,Columbia,South Carolina,29203,South,Furniture,Chairs,301.96,2,0,33.2156,,12/07/2023
+Standard Class,Consumer,United States,Rochester,Minnesota,55901,Central,Technology,Accessories,19.99,1,0,6.7966,,Aug-23
+Standard Class,Consumer,United States,Rochester,Minnesota,55901,Central,Office Supplies,Labels,6.16,2,0,2.9568,,13/03/2024
+Second Class,Home Office,United States,Houston,Texas,77095,Central,Office Supplies,Storage,158.368,7,0.2,13.8572,,2024-05-13
+Standard Class,Corporate,United States,Los Angeles,California,90036,West,Office Supplies,Art,20.1,3,0,6.633,,Jun-23
+Standard Class,Corporate,United States,Los Angeles,California,90036,West,Technology,Phones,73.584,2,0.2,8.2782,Check Later,Sep-23
+Standard Class,Corporate,United States,Los Angeles,California,90036,West,Office Supplies,Paper,6.48,1,0,3.1104,,not_a_date
+Second Class,Consumer,United States,Minneapolis,Minnesota,55407,Central,Office Supplies,Paper,12.96,2,0,6.2208,,Oct-24
+Second Class,Consumer,United States,Minneapolis,Minnesota,55407,Central,Furniture,Furnishings,53.34,3,0,16.5354,,Sep-23
+Second Class,Consumer,United States,Minneapolis,Minnesota,55407,Central,Office Supplies,Binders,32.96,2,0,16.1504,,29 May 2023
+Standard Class,Home Office,United States,Portland,Oregon,97206,West,Office Supplies,Binders,5.682,1,0.7,-3.788,,Feb-23
+Second Class,Home Office,United States,New York City,New York,10009,East,Furniture,Furnishings,96.53,7,0,40.5426,,Oct-24
+First Class,Consumer,United States,San Francisco,California,94122,West,Office Supplies,Binders,51.312,3,0.2,17.9592,,not_a_date
+Standard Class,Corporate,United States,Saint Paul,Minnesota,55106,Central,Office Supplies,Appliances,77.88,6,0,22.5852,Check Later,Sep-23
+Standard Class,Home Office,United States,Chicago,Illinois,60610,Central,Office Supplies,Paper,64.624,7,0.2,22.6184,,08-20-23
+Standard Class,Home Office,United States,Chicago,Illinois,60610,Central,Technology,Accessories,95.976,3,0.2,-10.7973,,not_a_date
+Standard Class,Home Office,United States,Chicago,Illinois,60610,Central,Office Supplies,Binders,1.788,3,0.8,-3.0396,,03-27-23
+Second Class,Consumer,United States,Rochester,Minnesota,55901,Central,Office Supplies,Paper,23.92,4,0,11.7208,,2023-12-07
+Standard Class,Consumer,United States,Aurora,Colorado,80013,West,Technology,Accessories,238.896,6,0.2,-26.8758,,not_a_date
+Standard Class,Consumer,United States,Aurora,Colorado,80013,West,Furniture,Furnishings,102.36,3,0.2,-3.8385,,not_a_date
+Standard Class,Consumer,United States,Aurora,Colorado,80013,West,Office Supplies,Binders,36.882,3,0.7,-25.8174,Check Later,not_a_date
+Standard Class,Consumer,United States,Charlotte,North Carolina,28205,South,Technology,Accessories,74.112,8,0.2,17.6016,,Nov-23
+Standard Class,Consumer,United States,Charlotte,North Carolina,28205,South,Technology,Phones,27.992,1,0.2,2.0994,,Nov-24
+Standard Class,Consumer,United States,Charlotte,North Carolina,28205,South,Office Supplies,Art,3.304,1,0.2,1.0738,,17 Jul 2024
+Standard Class,Home Office,United States,Orland Park,Illinois,60462,Central,Technology,Accessories,339.96,5,0.2,67.992,,Aug-24
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Furnishings,41.96,2,0,10.9096,,10/04/2024
+Standard Class,Consumer,United States,Urbandale,Iowa,50322,Central,Office Supplies,Art,75.96,2,0,22.788,,not_a_date
+Standard Class,Consumer,United States,Urbandale,Iowa,50322,Central,Office Supplies,Binders,27.24,6,0,13.3476,Check Later,Apr-24
+Second Class,Consumer,United States,Columbus,Ohio,43229,East,Office Supplies,Fasteners,40.096,14,0.2,14.5348,,10/06/2023
+Second Class,Consumer,United States,Columbus,Ohio,43229,East,Office Supplies,Envelopes,4.72,2,0.2,1.652,,06-03-23
+Second Class,Consumer,United States,Columbus,Ohio,43229,East,Office Supplies,Paper,23.976,3,0.2,7.4925,,2023-09-19
+Second Class,Consumer,United States,Columbus,Ohio,43229,East,Office Supplies,Envelopes,130.464,6,0.2,44.0316,,not_a_date
+Standard Class,Consumer,United States,Seattle,Washington,98103,West,Furniture,Tables,787.53,3,0,,,06/02/2023
+Standard Class,Corporate,United States,Bristol,Tennessee,37620,South,Office Supplies,Binders,157.794,1,0.7,-115.7156,Check Later,not_a_date
+First Class,Consumer,United States,Wilmington,Delaware,19805,East,Furniture,Furnishings,47.04,3,0,18.3456,,not_a_date
+First Class,Consumer,United States,Wilmington,Delaware,19805,East,Office Supplies,Binders,30.84,4,0,13.878,,not_a_date
+First Class,Consumer,United States,Wilmington,Delaware,19805,East,Office Supplies,Storage,226.56,6,0,63.4368,,not_a_date
+First Class,Consumer,United States,Wilmington,Delaware,19805,East,Office Supplies,Envelopes,115.02,9,0,51.759,Check Later,08-01-24
+First Class,Consumer,United States,Wilmington,Delaware,19805,East,Technology,Phones,68.04,7,0,19.7316,,11-24-24
+Second Class,Home Office,United States,Houston,Texas,77041,Central,Furniture,Chairs,600.558,3,0.3,-8.5794,,2024-08-17
+Standard Class,Consumer,United States,Bloomington,Illinois,61701,Central,Furniture,Tables,617.7,6,0.5,-407.682,,not_a_date
+Standard Class,Consumer,United States,Phoenix,Arizona,85023,West,Office Supplies,Binders,2.388,2,0.7,-1.8308,Check Later,2023-01-14
+Standard Class,Consumer,United States,Phoenix,Arizona,85023,West,Office Supplies,Storage,243.992,7,0.2,30.499,Check Later,05/07/2024
+Second Class,Home Office,United States,Los Angeles,California,90004,West,Furniture,Chairs,81.424,2,0.2,-9.1602,,28 Jan 2024
+Second Class,Home Office,United States,Los Angeles,California,90004,West,Furniture,Furnishings,238.56,3,0,26.2416,Check Later,30 Dec 2023
+First Class,Corporate,United States,Columbus,Ohio,43229,East,Technology,Phones,59.97,5,0.4,-11.994,Check Later,07-28-23
+1st Class,Corporate,United States,Columbus,Ohio,43229,East,Office Supplies,Paper,78.304,2,0.2,29.364,,2024-02-28
+First Class,Corporate,United States,Columbus,Ohio,43229,East,Office Supplies,Fasteners,21.456,9,0.2,6.9732,,not_a_date
+Standard Class,Consumer,United States,Roseville,California,95661,West,Office Supplies,Paper,20.04,3,0,9.6192,,06/10/2024
+Standard Class,Consumer,United States,Roseville,California,95661,West,Office Supplies,Paper,35.44,1,0,16.6568,,13/07/2023
+Standard Class,Consumer,United States,Roseville,California,95661,West,Office Supplies,Art,11.52,4,0,3.456,Check Later,Jan-23
+Standard Class,Consumer,United States,Roseville,California,95661,West,Office Supplies,Fasteners,4.02,2,0,1.9698,,2024-01-22
+Standard Class,Consumer,United States,Roseville,California,95661,West,Office Supplies,Binders,76.176,3,0.2,26.6616,Check Later,23/08/2024
+Standard Class,Consumer,United States,Roseville,California,95661,West,Office Supplies,Supplies,65.88,6,0,18.4464,Check Later,not_a_date
+Standard Class,Consumer,United States,Roseville,California,95661,West,Furniture,Furnishings,43.12,14,0,20.6976,Check Later,09 Nov 2024
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,82.8,2,0.2,,,Aug-24
+Standard Class,Corporate,United States,San Francisco,California,94122,West,Office Supplies,Art,8.82,3,0,2.3814,Check Later,02 Jan 2023
+Standard Class,Corporate,United States,San Francisco,California,94122,West,Office Supplies,Envelopes,10.86,3,0,5.1042,,2024-01-25
+Standard Class,Corporate,United States,San Francisco,California,94122,West,Office Supplies,Paper,143.7,3,0,68.976,Check Later,May-24
+Standard Class,Consumer,United States,Independence,Missouri,64055,Central,Office Supplies,Appliances,839.43,3,0,218.2518,,not_a_date
+Standard Class,Consumer,United States,Pasadena,California,91104,West,Office Supplies,Storage,671.93,7,0,20.1579,,not_a_date
+Standard Class,Home Office,United States,Newark,Ohio,43055,East,Furniture,Furnishings,93.888,4,0.2,12.9096,,not_a_date
+Standard Class,Corporate,United States,Franklin,Wisconsin,53132,Central,Technology,Phones,384.45,11,0,103.8015,Check Later,2023-03-09
+Standard Class,Corporate,United States,Franklin,Wisconsin,53132,Central,Technology,Phones,149.97,3,0,5.9988,,2024-06-15
+Standard Class,Corporate,United States,Franklin,Wisconsin,53132,Central,Furniture,Chairs,1951.84,8,0,585.552,,not_a_date
+Standard Class,Corporate,United States,Franklin,Wisconsin,53132,Central,Office Supplies,Binders,171.55,5,0,80.6285,,May-23
+First Class,Home Office,United States,Scottsdale,Arizona,85254,West,Office Supplies,Appliances,157.92,5,0.2,17.766,,05 Jun 2024
+First Class,Home Office,United States,Scottsdale,Arizona,85254,West,Technology,Phones,203.184,2,0.2,15.2388,Check Later,2023-06-01
+First Class,Corporate,United States,San Jose,California,95123,West,Office Supplies,Paper,58.38,7,0,26.271,,2024-01-16
+First Class,Corporate,United States,,California,95123,West,Office Supplies,Paper,105.52,4,0,48.5392,,not_a_date
+First Class,CORPORATE,United States,San Jose,California,95123,West,Office Supplies,Storage,80.88,6,0,,Check Later,2023-09-18
+Standard Class,Home Office,United States,Seattle,Washington,98105,West,Office Supplies,Art,6.63,3,0,1.7901,,22 Oct 2023
+Second Class,Consumer,United States,Seattle,Washington,98115,West,Furniture,Chairs,457.568,2,0.2,51.4764,,Jun-24
+Standard Class,Consumer,United States,Edmond,Oklahoma,73034,Central,Office Supplies,Labels,14.62,2,0,6.8714,,Sep-23
+Standard Class,Consumer,United States,Edmond,Oklahoma,73034,Central,Technology,Phones,944.93,7,0,236.2325,,14 Dec 2024
+First Class,CONSUMER,United States,Los Angeles,California,90045,West,Office Supplies,Paper,5.98,1,0,,,27/02/2024
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Accessories,54.384,2,0.2,1.3596,,May-24
+Standard Class,Consumer,United States,Carlsbad,New Mexico,88220,West,Office Supplies,Envelopes,28.4,5,0,13.348,,02-08-24
+Standard Class,Consumer,United States,Seattle,Washington,98115,West,Office Supplies,Binders,27.68,2,0.2,9.688,Check Later,10-05-24
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Art,9.936,3,0.2,2.7324,,Feb-23
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Technology,Machines,8159.952,8,0.4,-1359.992,,not_a_date
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Storage,275.928,3,0.2,-58.6347,Check Later,13 Dec 2023
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Furniture,Chairs,1740.06,9,0.3,-24.858,,Dec-24
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Art,32.064,6,0.2,6.8136,,2024-12-05
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Appliances,177.98,5,0.8,-453.849,,09-10-24
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Technology,Phones,143.976,3,0.2,8.9985,,not_a_date
+Standard Class,Consumer,United States,Los Angeles,California,90004,West,Office Supplies,Paper,-500,3,0,9.8418,Check Later,02-10-24
+Standard Class,Consumer,United States,Los Angeles,California,90004,West,Office Supplies,Paper,110.96,2,0,53.2608,Check Later,Sep-23
+Standard Class,Consumer,United States,Los Angeles,California,90004,West,Furniture,Chairs,340.144,7,0.2,21.259,Check Later,Dec-24
+Standard Class,Corporate,United States,Chicago,Illinois,60623,Central,Office Supplies,Appliances,52.448,2,0.8,-131.12,,09-27-24
+Standard Class,Corporate,United States,Chicago,Illinois,60623,Central,Office Supplies,Labels,20.16,4,0.2,6.552,,12-23-23
+Second Class,consumer,United States,Houston,Texas,77036,Central,Office Supplies,Appliances,,4,0.8,-243.16,,06-09-24
+Second Class,Consumer,United States,Newark,Ohio,43055,East,Furniture,Chairs,396.802,7,0.3,-11.3372,,Aug-24
+Second Class,Consumer,United States,Newark,Ohio,43055,East,Office Supplies,Supplies,15.88,5,0.2,-3.7715,,06/01/2023
+Standard Class,HOME OFFICE,United States,New York City,New York,10009,East,Office Supplies,Art,3.28,1,0,,Check Later,01-15-24
+Second Class,Corporate,United States,Decatur,Illinois,62521,Central,Office Supplies,Storage,24.816,2,0.2,1.8612,Check Later,07-26-23
+Second Class,Corporate,United States,Decatur,Illinois,62521,Central,Technology,Accessories,408.744,7,0.2,76.6395,,2023-01-19
+Second Class,Home Office,United States,Monroe,Louisiana,71203,South,Technology,Phones,503.96,4,0,,,13 Dec 2023
+Second Class,Home Office,United States,Monroe,Louisiana,71203,South,Technology,Phones,149.95,5,0,41.986,,30/01/2024
+Second Class,Home Office,United States,Monroe,Louisiana,71203,South,Technology,Accessories,29,2,0,7.25,,06 Jun 2023
+Standard Class,Consumer,United States,Fairfield,Connecticut,6824,East,Office Supplies,Binders,7.16,2,0,3.4368,Check Later,not_a_date
+Standard Class,Home Office,United States,Los Angeles,California,90032,West,Technology,Accessories,176.8,8,0,22.984,Check Later,09/08/2024
+Standard Class,Corporate,United States,Grand Prairie,Texas,75051,Central,Office Supplies,Storage,37.224,3,0.2,3.7224,,not_a_date
+Standard Class,Corporate,United States,Grand Prairie,Texas,75051,Central,Office Supplies,Paper,20.016,3,0.2,6.255,,05-03-23
+First Class,Home Office,United States,New York City,New York,10035,East,Furniture,Bookcases,899.136,4,0.2,112.392,Check Later,2023-01-22
+First Class,Home Office,United States,New York City,New York,10035,East,Technology,Phones,71.76,6,0,20.0928,Check Later,Feb-24
+First Class,Home Office,United States, nan ,New York,10035,East,Office Supplies,Paper,51.84,8,0,24.8832,,14 Dec 2023
+First Class,Home Office,United States,New York City,New York,10035,East,Furniture,Bookcases,626.352,3,0.2,46.9764,Check Later,06 Sep 2023
+First Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Art,19.9,5,0,6.567,Check Later,30/05/2024
+Standard Class,Corporate,United States,Redlands,California,92374,West,Office Supplies,Envelopes,14.28,7,0,6.7116,,2023-11-10
+Standard Class,Consumer,United States,Hamilton,Ohio,45011,East,Office Supplies,Art,7.408,2,0.2,1.2038,,12 Nov 2024
+Standard Class,CONSUMER,United States,Hamilton,Ohio,45011,East,Office Supplies,Art,6.048,3,0.2,,N/A,not_a_date
+Standard Class,Home Office,United States,Westfield,New Jersey,7090,East, CLOTHS ,Storage,46.26,3,0,12.0276,,Mar-23
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,2.946,2,0.7,-2.2586,Check Later,2024-08-21
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Paper,16.056,3,0.2,5.8203,,28 Sep 2024
+Standard Class,Consumer,United States,Akron,Ohio,44312,East,Office Supplies,Paper,21.744,3,0.2,6.795,,not_a_date
+First Class,CONSUMER,United States,Denver,Colorado,80219,West,Furniture,Tables,218.75,2,0.5,,,08-31-23
+First Class,Consumer,United States,Denver,Colorado,80219,West,Office Supplies,Appliances,2.6,1,0.2,0.2925,Check Later,Nov-24
+Second Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Appliances,66.284,2,0.8,-178.9668,Check Later,06 Mar 2024
+Standard Class,Corporate,United States,Franklin,Tennessee,37064,South,Furniture,Furnishings,35.168,7,0.2,9.6712,,2024-11-26
+Standard Class,Consumer,United States,Whittier,California,90604,West,Technology,Phones,444.768,4,0.2,44.4768,,28/06/2023
+Standard Class,Consumer,United States,Saginaw,Michigan,48601,Central,Office Supplies,Storage,83.92,4,0,5.8744,Check Later,not_a_date
+Standard Class,Consumer,United States,Saginaw,Michigan,48601,Central,Technology,Phones,131.98,2,0,35.6346,Check Later,24 Jul 2023
+Standard Class,Consumer,United States,Saginaw,Michigan,48601,Central,Office Supplies,Binders,15.92,4,0,7.4824,,27/02/2023
+Standard Class,Consumer,United States,Saginaw,Michigan,48601,Central,Office Supplies,Fasteners,52.29,9,0,16.2099,,08-14-24
+Standard Class,Consumer,United States,Saginaw,Michigan,48601,Central,Office Supplies,Storage,91.99,1,0,3.6796,,04 Dec 2024
+Second Class,Corporate,United States, nan ,Texas,75220,Central,Technology,Accessories,20.8,2,0.2,6.5,,07/04/2024
+Standard Class,Corporate,United States,Medina,Ohio,44256,East,Office Supplies,Labels,23.68,2,0.2,8.88,,06-24-24
+Standard Class,Corporate,United States,Medina,Ohio,44256,East,Furniture,Bookcases,452.45,5,0.5,-244.323,,2023-05-12
+Standard Class,Corporate,United States,Medina,Ohio,44256,East,Technology,Phones,62.982,3,0.4,-14.6958,,Feb-24
+Standard Class,Corporate,United States,Medina,Ohio,44256,East,Technology,Machines,1188,9,0.7,-950.4,Check Later,05-21-23
+Standard Class,Corporate,United States,Medina,Ohio,44256,East,Technology,Accessories,89.584,2,0.2,4.4792,,not_a_date
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Office Supplies,Storage,93.06,6,0,26.0568,,not_a_date
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Technology,Phones,302.376,3,0.2,22.6782,,07/12/2023
+First Class,Consumer,United States,Dublin,Ohio,43017,East,Office Supplies,Fasteners,5.584,2,0.2,1.8148,Check Later,04/02/2023
+First Class,Consumer,United States,Dublin,Ohio,43017,East,Office Supplies,Paper,22.704,6,0.2,8.2302,,not_a_date
+First Class,Consumer,United States,Dublin,Ohio,43017,East,Office Supplies,Binders,19.776,4,0.7,-13.8432,Check Later,19/09/2023
+First Class,Consumer,United States,Dublin,Ohio,43017,East,Furniture,Furnishings,72.704,4,0.2,19.0848,Check Later,2023-07-13
+First Class,Consumer,United States,Dublin,Ohio,43017,East,Technology,Machines,479.988,4,0.7,-383.9904,Check Later,May-24
+First Class,Consumer,United States,Dublin,Ohio,43017,East,Office Supplies,Art,27.168,2,0.2,2.7168,,2024-01-05
+Standard Class,Corporate,United States,Detroit,Michigan,48227,Central,Office Supplies,Art,2.2,1,0,0.968,Check Later,08 Dec 2023
+Standard Class,Corporate,United States,Detroit,Michigan,48227,Central,Furniture,Tables,622.45,5,0,136.939,,2024-03-30
+Standard Class,Corporate,United States,Detroit,Michigan,48227,Central,Office Supplies,Storage,21.98,1,0,0.2198,,04-18-24
+Standard Class,Consumer,United States,Columbia,Tennessee,38401,South,Furniture,Chairs,161.568,2,0.2,-28.2744,,10 Nov 2023
+Standard Class,Consumer,United States,Columbia,Tennessee,38401,South,Furniture,Chairs,389.696,8,0.2,43.8408,Check Later,04-08-24
+Standard Class,Corporate,United States,Charlotte,North Carolina,28205,South,Office Supplies,Binders,18.648,7,0.7,-12.432,Check Later,Nov-23
+Standard Class,Home Office,United States,Tampa,Florida,33614,South,Furniture,Tables,233.86,2,0.45,-102.048,,not_a_date
+Standard Class,Home Office,United States,Tampa,Florida,33614,South,Furniture,Tables,620.6145,3,0.45,-248.2458,,03/03/2023
+Standard Class,Home Office,United States,Tampa,Florida,33614,South,Office Supplies,Binders,5.328,2,0.7,-3.552,,12/12/2023
+Standard Class,Home Office,United States,Tampa,Florida,33614,South,Furniture,Furnishings,258.072,3,0.2,0,,not_a_date
+Standard Class,Home Office,United States,Tampa,Florida,33614,South,Technology,Accessories,617.976,3,0.2,-7.7247,,Jan-23
+Standard Class,Corporate,United States,Santa Clara,California,95051,West,Office Supplies,Paper,10.56,2,0,4.752,Check Later,May-24
+Second Class,Consumer,United States,Chicago,Illinois,60610,Central,Office Supplies,Paper,88888,5,0.2,9.396,,not_a_date
+Second Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,419.68,5,0.6,-356.728,Check Later,Aug-24
+Second Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,11.688,3,0.6,-4.6752,,2024-12-16
+Second Class,Consumer,United States,Chicago,Illinois,60610,Central,Technology,Phones,31.984,2,0.2,11.1944,Check Later,09-25-24
+Second Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Tables,177.225,5,0.5,-120.513,,not_a_date
+Second Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,4.044,3,0.6,-2.8308,Check Later,not_a_date
+Second Class,Consumer,United States,Chicago,Illinois,60610,Central,Office Supplies,Art,7.408,2,0.2,1.2038,,Sep-23
+Second Class,Home Office,United States,Lakeville,Minnesota,55044,Central,Furniture,Chairs,2001.86,7,0,580.5394,Check Later,not_a_date
+Second Class,Home Office,United States,Lakeville,Minnesota,55044,Central,Office Supplies,Storage,166.72,2,0,41.68,,13 Jul 2024
+Second Class,Home Office,United States,Lakeville,Minnesota,55044,Central,Office Supplies,Paper,47.88,6,0,23.94,,05/06/2024
+Second Class,Home Office,United States,Lakeville,Minnesota,55044,Central,Office Supplies,Appliances,1503.25,5,0,496.0725,,14/09/2023
+Second Class,Home Office,United States,Lakeville,Minnesota,55044,Central,Office Supplies,Paper,25.92,4,0,12.4416,,Jul-24
+Second Class,Consumer,United States,San Francisco,California,94109,West,Furniture,Chairs,321.568,2,0.2,28.1372,,Mar-23
+Standard Class,Consumer,United States,San Diego,California,92037,West,Office Supplies,Paper,7.61,1,0,3.5767,,Aug-24
+Standard Class,Consumer,United States,San Diego,California,92037,West,Technology,Accessories,3347.37,13,0,636.0003,Check Later,Jan-23
+First Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Storage,80.58,6,0,22.5624,,09-25-24
+First Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Envelopes,361.92,4,0,162.864,Check Later,27/02/2024
+Standard Class,Corporate,United States,Chicago,Illinois,60623,Central,,Furnishings,12.132,9,0.6,-8.4924,,2024-09-02
+Standard Class,Corporate,United States,Chicago,Illinois,60623,Central,Office Supplies,Storage,82.368,2,0.2,-19.5624,,07-01-23
+Standard Class,Corporate,United States,Chicago,Illinois,60623,Central,Office Supplies,Storage,53.92,5,0.2,4.044,,20 Apr 2023
+Standard Class,Corporate,United States,Chicago,Illinois,60623,Central,Technology,Phones,647.904,6,0.2,56.6916,Check Later,not_a_date
+Second Class,Consumer,United States,New York City,New York,10009,East,Technology,Accessories,20.37,3,0,6.9258,,Aug-23
+Second Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Storage,-250,3,0,6.6465,Check Later,12-26-24
+Second Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,17.52,5,0.2,6.132,N/A,08 Oct 2024
+Standard Class,Corporate,United States,Pasadena,Texas,77506,Central,Office Supplies,Appliances,1.624,2,0.8,-4.466,,Dec-23
+Second Class,Corporate,United States,Houston,Texas,77036,Central,Technology,Machines,3059.982,3,0.4,-509.997,,26 Dec 2023
+Second Class,Corporate,United States,Houston,Texas,77036,Central,Technology,Machines,2519.958,7,0.4,-251.9958,,2024-09-21
+Standard Class,Consumer,United States,Chicago,Illinois,60610,Central,Technology,Phones,328.224,4,0.2,28.7196,Check Later,Jun-24
+Standard Class,Consumer,United States,Brentwood,California,94513,West,Technology,Accessories,79.9,2,0,35.156,,09/12/2024
+Standard Class,Corporate,United States,Chapel Hill,North Carolina,27514,South,Office Supplies,Art,14.016,3,0.2,4.7304,,2024-05-05
+Standard Class,Consumer,United States,Morristown,New Jersey,7960,East,Office Supplies,Fasteners,7.56,6,0,0.3024,Check Later,07/07/2024
+Standard Class,Corporate,United States,Cincinnati,Ohio,45231,East,Office Supplies,Storage,37.208,1,0.2,-7.4416,,not_a_date
+Standard Class,Corporate,United States,Cincinnati,Ohio,45231,East,Offfice supplies,Envelopes,57.576,3,0.2,21.591,Check Later,2024-10-17
+Second Class,Corporate,United States,San Francisco,California,94110,West,Office Supplies,Storage,725.84,4,0,210.4936,,not_a_date
+First Class,Consumer,United States,San Francisco,California,94109,West,Technology,Accessories,209.93,7,0,92.3692,,2024-03-25
+First Class,Consumer,United States,San Francisco,California,94109,West,Furniture,Furnishings,5.28,3,0,2.3232,Check Later,25 Jun 2023
+First Class,Consumer,United States,San Francisco,California,94109,West,Office Supplies,Binders,10.92,3,0.2,4.095,,not_a_date
+First Class,Corporate,United States,Inglewood,California,90301,West,Office Supplies,Paper,8.82,2,0,4.0572,,2023-10-24
+First Class,Corporate,United States,Inglewood,California,90301,West,Office Supplies,Art,5.98,1,0,1.5548,Check Later,19 Oct 2023
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,11.648,2,0.2,4.0768,,06-30-24
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,18.176,4,0.2,5.9072,,07-14-23
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Storage,59.712,6,0.2,5.9712,,24 May 2023
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Labels,24.84,3,0.2,8.694,Check Later,not_a_date
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Binders,2.08,5,0.8,-3.432,N/A,Jan-23
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Technology,Phones,1114.4,7,0.2,376.11,,05/09/2023
+Standard Class,Consumer,United States,Los Angeles,California,90004,West,Furniture,Tables,1038.84,5,0.2,51.942,,06-26-24
+Standard Class,Consumer,United States,Portland,Oregon,97206,West,Office Supplies,Paper,141.76,5,0.2,47.844,Check Later,26 May 2024
+Standard Class,Consumer,United States,Portland,Oregon,97206,West,Technology,Accessories,239.8,5,0.2,47.96,,27/07/2024
+Standard Class,Consumer,United States,Portland,Oregon,97206,West,Office Supplies,Paper,31.104,6,0.2,10.8864,,not_a_date
+Second Class,Corporate,United States,Tamarac,Florida,33319,South,Office Supplies,Binders,254.058,7,0.7,-169.372,,25/05/2024
+Second Class,Corporate,United States,Tamarac,Florida,33319,South,Office Supplies,Appliances,194.528,2,0.2,24.316,,Jan-23
+Second Class,Corporate,United States,Tamarac,Florida,33319,South,Office Supplies,Supplies,961.48,5,0.2,-204.3145,,not_a_date
+Second Class,Home Office,United States,Columbus,Ohio,43229,East,Office Supplies,Fasteners,19.096,7,0.2,6.6836,Check Later,Aug-24
+Second Class,Home Office,United States,Columbus,Ohio,43229,East,Office Supplies,Labels,18.496,8,0.2,6.2424,Check Later,28/10/2024
+Second Class,Home Office,United States,Columbus,Ohio,43229,East,Technology,Accessories,255.984,2,0.2,54.3966,,Mar-24
+Second Class,Home Office,United States,Columbus,Ohio,43229,East,Furniture,Bookcases,86.97,3,0.5,-48.7032,,14 Oct 2023
+First Class,Corporate,United States,Colorado Springs,Colorado,80906,West,Furniture,Furnishings,300.416,8,0.2,78.8592,,16 Oct 2023
+First Class,Corporate,United States,Colorado Springs,Colorado,80906,West,Furniture,Chairs,230.352,3,0.2,20.1558,Check Later,31 May 2024
+First Class,Corporate,United States,Colorado Springs,Colorado,80906,West,Furniture,Furnishings,218.352,3,0.2,-24.5646,Check Later,11/05/2023
+First Class,Corporate,United States,Colorado Springs,Colorado,80906,West,Office Supplies,Binders,78.6,5,0.7,-62.88,,Aug-23
+First Class,Corporate,United States,Colorado Springs,Colorado,80906,West,Office Supplies,Fasteners,27.552,3,0.2,9.2988,Check Later,Jan-23
+Standard Class,Corporate,United States,Belleville,New Jersey,7109,East,Office Supplies,Paper,32.4,5,0,15.552,Check Later,2024-07-06
+Standard Class,Corporate,United States,Belleville,New Jersey,7109,East,Office Supplies,Storage,1082.48,8,0,10.8248,,23/12/2023
+Standard Class,Corporate,United States,Belleville,New Jersey,7109,East,Office Supplies,Paper,56.91,3,0,27.3168,Check Later,Apr-24
+Standard Class,Corporate,United States,Belleville,New Jersey,7109,East,Furniture,Furnishings,77.6,4,0,38.024,Check Later,01 May 2023
+Standard Class,Corporate,United States,Belleville,New Jersey,7109,East,Office Supplies,Binders,14.28,1,0,6.5688,,not_a_date
+Standard Class,Consumer,United States,Chicago,Illinois,60623,Central,Furniture,Tables,219.075,3,0.5,-131.445,Check Later,May-23
+Second Class,Corporate,United States,New York City,New York,10024,East,Furniture,Furnishings,26.8,2,0,12.864,,not_a_date
+Standard Class,Corporate,United States,Taylor,Michigan,48180,Central,Office Supplies,Art,9.84,3,0,2.8536,,25 Sep 2024
+Standard Class,Home Office,United States,Lakewood,New Jersey,8701,East,Office Supplies,Binders,45.48,3,0,20.9208,,Sep-23
+Standard Class,Home Office,United States, nan ,New Jersey,8701,East,Office Supplies,Art,289.2,6,0,83.868,,29/03/2024
+First Class,Consumer,United States,Arlington,Virginia,22204,South,Office Supplies,Art,4.89,1,0,2.0049,,25 Apr 2024
+Second Class,Corporate,United States,Arvada,Colorado,80004,West,Furniture,Furnishings,,4,0.2,3.5948,Check Later,01/10/2024
+Second Class,Corporate,United States,Arvada,Colorado,80004,West,Furniture,Chairs,466.768,2,0.2,52.5114,,10 Aug 2023
+Second Class,Corporate,United States,Arvada,Colorado,80004,West,Furniture,Furnishings,15.232,1,0.2,1.7136,,01 May 2024
+Second Class,Corporate,United States,Arvada,Colorado,80004,West,Office Supplies,Labels,6.264,3,0.2,2.0358,,06 Jan 2024
+Standard Class,Corporate,United States,Hackensack,New Jersey,7601,East,Furniture,Furnishings,87.54,3,0,37.6422,N/A,06-22-23
+Standard Class,Corporate,United States,Saint Petersburg,Florida,33710,South,Technology,Phones,178.384,2,0.2,22.298,,2023-06-23
+Standard Class,CORPORATE,United States,Saint Petersburg,Florida,33710,South,Office Supplies,Paper,15.552,3,0.2,,Check Later,30/12/2024
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Art,,4,0.2,8.6744,Check Later,2024-10-12
+Standard Class,Home Office,United States,New York City,New York,10024,East,Furniture,Chairs,135.882,1,0.1,24.1568,,07/12/2023
+Standard Class,Home Office,United States,New York City,New York,10024,East,Technology,Machines,3991.98,2,0,1995.99,Check Later,Sep-24
+Standard Class,Home Office,United States,New York City,New York,10024,East,Technology,Phones,275.94,6,0,80.0226,Check Later,05-20-23
+Standard Class,Home Office,United States,New York City,New York,10024,East,Technology,Accessories,360,4,0,129.6,Check Later,not_a_date
+Standard Class,Home Office,United States,New York City,New York,10024,East,Office Supplies,Storage,43.57,1,0,13.071,Check Later,07/05/2024
+Standard Class,Corporate,United States,Long Beach,California,90805,West,Office Supplies,Fasteners,7.16,2,0,3.58,,10-10-24
+Standard Class,Corporate,United States,Hesperia,California,92345,West,Office Supplies,Binders,251.52,6,0.2,81.744,,not_a_date
+Standard Class,Corporate,United States,Hesperia,California,92345,West,Technology,Accessories,99.99,1,0,34.9965,,01-18-23
+Second Class,Corporate,United States,Murfreesboro,Tennessee,37130,South,Furniture,Furnishings,15.992,1,0.2,0.9995,Check Later,2024-01-22
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,290.898,3,0.4,-67.8762,Check Later,04-27-23
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,,Storage,54.224,2,0.2,3.389,,02 Jan 2023
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Chairs,786.744,4,0.3,-258.5016,,28/05/2024
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Labels,100.24,10,0.2,33.831,,20/07/2023
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,37.764,6,0.7,-27.6936,,Apr-24
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,82.8,2,0.4,-20.7,,06/02/2024
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,20.724,2,0.7,-13.816,,10-17-24
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,4.896,3,0.7,-3.4272,Check Later,10-09-23
+Second Class,Consumer,United States,Los Angeles,California,90045,West,Office Supplies,Binders,4.752,1,0.2,1.6038,,not_a_date
+Second Class,Consumer,United States,Los Angeles,California,90045,West,Technology,Copiers,959.984,2,0.2,335.9944,N/A,Feb-23
+Second Class,Consumer,United States,Los Angeles,California,90045,West,Office Supplies,Binders,14.368,4,0.2,4.49,,12-09-24
+Standard Class,Corporate,United States,San Francisco,California,94122,West,Office Supplies,Binders,7.712,2,0.2,2.7956,,not_a_date
+Standard Class,Corporate,United States,San Francisco,California,94122,West,Furniture,Tables,698.352,3,0.2,-17.4588,,05-25-23
+Second Class,Consumer,United States,Layton,Utah,84041,West,Office Supplies,Fasteners,4.96,4,0,2.3312,,Feb-23
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Art,17.856,4,0.2,1.116,,not_a_date
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,509.97,10,0.7,-407.976,,10-18-23
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Fasteners,30.992,13,0.2,10.0724,,Dec-24
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Technology,Phones,71.928,12,0.4,8.3916,N/A,Mar-23
+Standard Class,Consumer,United States,Austin,Texas,78745,Central,,Storage,88.8,4,0.2,-2.22,,11 Apr 2024
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Technology,Phones,47.976,3,0.2,4.7976,,07 May 2024
+Standard Class,Consumer,United States,Lowell,Massachusetts,1852,East,Office Supplies,Art,7.56,3,0,3.0996,,06-10-24
+Standard Class,Consumer,United States,Lowell,Massachusetts,1852,East,Office Supplies,Paper,,2,0,11.5432,,Aug-24
+Standard Class,Consumer,United States,Lowell,Massachusetts,1852,East,Office Supplies,Art,12.96,2,0,4.1472,,not_a_date
+First Class,Home Office,United States,New York City,New York,10009,East,Technology,Accessories,6.79,1,0,2.3086,Check Later,Apr-24
+First Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Paper,24.56,2,0,11.5432,,not_a_date
+First Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Binders,3.048,1,0.2,1.0668,Check Later,2023-01-28
+First Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Paper,49.12,4,0,23.0864,,31 Oct 2024
+First Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Binders,4355.168,4,0.2,1415.4296,,23 Nov 2023
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,388.704,6,0.2,-4.8588,,2023-04-06
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Envelopes,8.26,2,0,3.7996,,05/09/2023
+Standard Class,CONSUMER,United States,New York City,New York,10035,East,Office Supplies,Art,17.04,4,0,,Check Later,03/09/2023
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,34.4,5,0,15.824,,18 Feb 2023
+Standard Class,corporate,United States,Charlotte,North Carolina,28205,South,Office Supplies,Paper,,5,0.2,11.325,Check Later,09 Jun 2024
+First Class,Corporate,United States,Columbus,Georgia,31907,South,Office Supplies,Appliances,647.84,8,0,168.4384,,2024-09-26
+First Class,Corporate,United States,Columbus,Georgia,31907,South,Office Supplies,Labels,20.7,2,0,9.936,,not_a_date
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Labels,20.7,2,0,9.936,,09 Aug 2023
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Chairs,488.646,3,0.1,86.8704,,22/02/2023
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Art,5.56,2,0,1.4456,,14 Oct 2024
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Furnishings,47.12,8,0,20.7328,Check Later,02 Sep 2024
+Standard Class,Consumer,United States,San Francisco,California,94109,West,Office Supplies,Storage,211.96,4,0,8.4784,,2023-08-08
+Same Day,Corporate,United States,Manchester,Connecticut,6040,East,Office Supplies,Binders,23.2,4,0,10.44,N/A,2023-06-04
+Same Day,Corporate,United States,Manchester,Connecticut,6040,East,Office Supplies,Supplies,7.36,2,0,0.1472,,not_a_date
+Same Day,Corporate,United States,Manchester,Connecticut,6040,East,Office Supplies,Storage,104.79,7,0,29.3412,,2024-07-19
+Same Day,Corporate,United States,Manchester,Connecticut,6040,East,Furniture,Bookcases,1043.92,4,0,271.4192,Check Later,02 Dec 2024
+Standard Class,Consumer,United States,Harlingen,Texas,78550,Central,Office Supplies,Paper,25.92,5,0.2,9.396,,not_a_date
+Standard Class,Consumer,United States,Harlingen,Texas,78550,Central,Office Supplies,Storage,53.424,3,0.2,4.6746,,05/02/2023
+Standard Class,Consumer,United States,Tucson,Arizona,85705,West,,Binders,8.16,5,0.7,-5.712,Check Later,30/09/2023
+Standard Class,Consumer,United States,Tucson,Arizona,85705,West,Technology,Accessories,1023.936,8,0.2,179.1888,,Jun-23
+Standard Class,Consumer,United States,Tucson,Arizona,85705,West,Office Supplies,Art,9.24,1,0.2,0.924,Check Later,03-13-23
+Standard Class,Consumer,United States,Tucson,Arizona,85705,West,Technology,Accessories,479.04,10,0.2,-29.94,,not_a_date
+First Class,Corporate,United States,Quincy,Illinois,62301,Central,Office Supplies,Paper,99.136,4,0.2,30.98,,06-22-24
+Standard Class,Corporate,United States,Franklin,Massachusetts,2038,East,Furniture,Tables,1488.424,7,0.3,-297.6848,Check Later,not_a_date
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Appliances,8.652,3,0.8,-20.3322,,not_a_date
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Storage,23.832,3,0.2,2.6811,N/A,not_a_date
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Binders,12.176,4,0.8,-18.8728,,Oct-24
+First Class,Corporate,United States,San Francisco,California,94109,West,Office Supplies,Paper,50.96,7,0,25.48,Check Later,23/09/2024
+First Class,Corporate,United States,San Francisco,California,94109,West,Office Supplies,Binders,49.536,3,0.2,17.3376,,23 Feb 2023
+Second Class,Corporate,United States,Taylor,Michigan,48180,Central,Technology,Accessories,41.9,2,0,8.799,Check Later,28 Mar 2023
+Standard Class,Consumer,United States,Pembroke Pines,Florida,33024,South,Furniture,Tables,375.4575,3,0.45,-157.0095,,not_a_date
+Standard Class,Consumer,United States,Pembroke Pines,Florida,33024,South,Technology,Accessories,83.976,3,0.2,-1.0497,,02-18-24
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Technology,Machines,482.34,4,0.7,-337.638,,12-12-23
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,2.96,1,0.2,0.777,Check Later,12-05-23
+First Class,Consumer,United States,Cincinnati,Ohio,45231,East,Office Supplies,Art,2.624,1,0.2,0.4264,,04 Dec 2024
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,23.36,4,0.2,7.884,,2024-09-06
+Standard Class,Consumer,United States,New York City,New York,10009,East,Technology,Accessories,39.98,2,0,13.5932,,08-21-23
+Second Class,Consumer,United States,Des Moines,Washington,98198,West,Technology,Phones,246.384,2,0.2,27.7182,,08-14-24
+Second Class,Consumer,United States,Des Moines,Washington,98198,West,Technology,Copiers,1799.97,3,0,701.9883,,Apr-24
+Second Class,Corporate,United States,Peoria,Illinois,61604,Central,Office Supplies,Binders,12.462,3,0.8,-20.5623,,2023-10-31
+Standard Class,Home Office,United States,Las Vegas,Nevada,89115,West,Office Supplies,Binders,75.792,3,0.2,25.5798,Check Later,28 Feb 2023
+Second Class,corporate,United States,Warwick,Rhode Island,2886,East,Office Supplies,Storage,,2,0,9.4924,,05/01/2023
+Second Class,Corporate,United States,Warwick,Rhode Island,2886,East,Office Supplies,Paper,12.96,2,0,6.2208,,Jul-24
+Standard Class,Home Office,United States,Jackson,Michigan,49201,Central,Office Supplies,Supplies,70.12,4,0,21.036,,09 Feb 2023
+Second Class,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Storage,35.952,3,0.2,,,17/09/2023
+Second Class,Consumer,United States,Houston,Texas,77036,Central,Furniture,Bookcases,2396.2656,4,0.32,-317.1528,N/A,Jan-24
+Second Class,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Storage,131.136,4,0.2,-32.784,,07 Jan 2024
+Second Class,Consumer,United States,Houston,Texas,77036,Central,Technology,Accessories,57.584,2,0.2,0.7198,Check Later,14 Oct 2023
+First Class,Consumer,United States,Miami,Florida,33180,South,Office Supplies,Paper,9.568,2,0.2,3.4684,,08-26-24
+Standard Class,Corporate,United States,Wilmington,North Carolina,28403,South,Office Supplies,Art,39.072,6,0.2,9.768,,2023-02-10
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Appliances,35.91,3,0,9.6957,Check Later,not_a_date
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Technology,Accessories,179.95,5,0,37.7895,,02-16-23
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Technology,Copiers,1199.976,3,0.2,434.9913,Check Later,Apr-24
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Office Supplies,Paper,27.15,5,0,13.3035,,2023-07-16
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Furniture,Tables,1004.024,7,0.2,-112.9527,,not_a_date
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Office Supplies,Paper,9.68,1,0,4.6464,,05-01-23
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Office Supplies,Labels,28.35,9,0,13.608,,not_a_date
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Office Supplies,Paper,55.98,1,0,27.4302,,not_a_date
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Furniture,Bookcases,1336.829,13,0.15,31.4548,,Feb-24
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Furniture,Chairs,113.568,2,0.2,-18.4548,,2024-04-15
+Standard Class,Corporate,United States,Seattle,Washington,98105,West,Office Supplies,Paper,139.86,7,0,65.7342,,not_a_date
+Standard Class,Corporate,United States,Seattle,Washington,98105,West,Furniture,Chairs,307.136,4,0.2,26.8744,Check Later,Nov-24
+Standard Class,Consumer,United States,Huntington Beach,California,92646,West,Office Supplies,Art,95.92,8,0,25.8984,,08 Mar 2024
+Standard Class,Consumer,United States,Los Angeles,California,90004,West,Furniture,Chairs,383.8,5,0.2,38.38,,30 Aug 2023
+Standard Class,Corporate,United States,Richmond,Kentucky,40475,South,Office Supplies,Paper,5.78,1,0,2.8322,,06-24-23
+Standard Class,Corporate,United States,Los Angeles,California,90045,West,Office Supplies,Art,9.32,4,0,2.7028,Check Later,2023-06-23
+Standard Class,Corporate,United States, nan ,California,90045,West,Office Supplies,Envelopes,15.25,1,0,7.015,,2023-11-24
+First Class,Consumer,United States,Louisville,Colorado,80027,West,Technology,Accessories,196.752,6,0.2,56.5662,,01 Mar 2024
+Standard Class,Corporate,United States,Lawrence,Massachusetts,1841,East,Furniture,Furnishings,56.56,4,0,14.7056,N/A,05-08-23
+Standard Class,Corporate,United States,Lawrence,Massachusetts,1841,East,Office Supplies,Storage,32.7,3,0,8.502,,not_a_date
+Second Class,Consumer,United States,Jackson,Mississippi,39212,South,Furniture,Chairs,866.4,4,0,225.264,,05-23-24
+Second Class,Corporate,United States,Canton,Michigan,48187,Central,Furniture,Furnishings,28.4,2,0,11.076,,Apr-23
+Second Class,Corporate,United States,Canton,Michigan,48187,Central,Office Supplies,Binders,287.92,8,0,138.2016,,05-16-24
+First Class,Home Office,United States,New Rochelle,New York,10801,East,Technology,Machines,69.99,1,0,30.0957,,Dec-24
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Office Supplies,Art,6.672,6,0.2,0.5004,,Jan-24
+Standard Class,Home Office,United States,Gastonia,North Carolina,28052,South,,Binders,189.588,500,0.7,-145.3508,,04-27-24
+Standard Class,Home Office,United States,Gastonia,North Carolina,28052,South,Technology,Accessories,408.744,7,0.2,76.6395,,Jan-24
+Standard Class,Home Office,United States,Gastonia,North Carolina,28052,South,Technology,Accessories,291.96,5,0.2,54.7425,Check Later,2023-02-02
+Standard Class,Home Office,United States,Gastonia,North Carolina,28052,South,Office Supplies,Storage,4.768,2,0.2,-0.7748,Check Later,2024-05-17
+First Class,Consumer,United States,Lowell,Massachusetts,1852,East,Office Supplies,Storage,714.3,5,0,207.147,,09-09-24
+Standard Class,Consumer,United States,Jacksonville,Florida,32216,South,Office Supplies,Binders,4.812,2,0.7,-3.6892,,not_a_date
+Standard Class,Consumer,United States,Jacksonville,Florida,32216,South,Technology,Accessories,247.8,5,0.2,-18.585,Check Later,2023-01-22
+Second Class,Home Office,United States,Chicago,Illinois,60623,Central,Technology,Machines,1007.979,3,0.3,43.1991,Check Later,17/05/2024
+Second Class,Home Office,United States,Chicago,Illinois,60623,Central,Office Supplies,Paper,313.488,7,0.2,113.6394,,Mar-24
+Standard Class,Corporate,United States,Houston,Texas,77070,Central,Office Supplies,Paper,31.872,8,0.2,11.5536,Check Later,19 Dec 2023
+Second Class,Corporate,United States,New York City,New York,10024,East,Furniture,Chairs,207.846,3,0.1,2.3094,Check Later,2023-06-22
+Second Class,Consumer,United States,Detroit,Michigan,48227,Central,Furniture,Furnishings,12.22,1,0,3.666,,not_a_date
+Second Class,Consumer,United States,Detroit,Michigan,48227,Central,Office Supplies,Storage,194.94,3,0,23.3928,,13 Apr 2023
+Second Class,Consumer,United States,Detroit,Michigan,48227,Central,Office Supplies,Storage,70.95,3,0,20.5755,,12-08-23
+Second Class,Consumer,United States,Detroit,Michigan,48227,Central,Office Supplies,Paper,91.36,4,0,42.0256,,08 May 2023
+Second Class,Consumer,United States,Detroit,Michigan,48227,Central,Furniture,Chairs,242.94,3,0,29.1528,Check Later,25/04/2023
+Second Class,Consumer,United States,Detroit,Michigan,48227,Central,Office Supplies,Labels,22.05,7,0,10.584,,07/10/2024
+Second Class,Consumer,United States,Columbus,Indiana,47201,Central,Furniture,Furnishings,2.91,1,0,1.3677,Check Later,not_a_date
+Second Class,Consumer,United States,Auburn,New York,13021,East,Office Supplies,Art,59.52,3,0,15.4752,Check Later,Mar-24
+Second Class,Consumer,United States,Auburn,New York,13021,East,Offfice supplies,Storage,161.94,3,0,9.7164,Check Later,09/08/2024
+Second Class,Consumer,United States,Auburn,New York,13021,East,Office Supplies,Art,263.88,6,0,71.2476,Check Later,09-05-23
+Second Class,Consumer,United States,Auburn,New York,13021,East,Office Supplies,Art,30.48,3,0,7.9248,,2024-04-10
+Second Class,Consumer,United States,Auburn,New York,13021,East,Office Supplies,Art,9.84,3,0,2.8536,,2023-05-01
+Second Class,Consumer,United States,Auburn,New York,13021,East, CLOTHS ,Phones,35.12,4,0,9.1312,,15 Nov 2024
+Standard Class,Corporate,United States,Akron,Ohio,44312,East,Furniture,Tables,284.364,2,0.4,-75.8304,,19/12/2023
+Standard Class,Corporate,United States,Akron,Ohio,44312,East,Office Supplies,Storage,665.408,2,0.2,66.5408,,2023-06-22
+Standard Class,Corporate,United States,Norman,Oklahoma,73071,Central,Technology,Accessories,63.88,4,0,24.9132,,27/01/2023
+Standard Class,Consumer,United States,Concord,California,94521,West,Furniture,Chairs,129.568,2,0.2,-24.294,,Aug-24
+Standard Class,Consumer,United States,Decatur,Illinois,62521,Central,Furniture,Chairs,747.558,3,0.3,-96.1146,,06-16-23
+Standard Class,Consumer,United States,Decatur,Illinois,62521,Central,Office Supplies,Envelopes,8.928,2,0.2,3.348,,19/08/2023
+Standard Class,Consumer,United States,Seattle,Washington,98115,West,Office Supplies,Appliances,103.92,4,0,36.372,Check Later,not_a_date
+Standard Class,Consumer,United States,Seattle,Washington,98115,West,Technology,Accessories,899.91,9,0,377.9622,,Jan-24
+Standard Class,Consumer,United States,Seattle,Washington,98115,West,Office Supplies,Binders,51.312,3,0.2,18.6006,,Jun-24
+Standard Class,Home Office,United States,Phoenix,Arizona,85023,West,Furniture,Furnishings,23.56,5,0.2,7.068,,Aug-23
+Standard Class,Home Office,United States,Phoenix,Arizona,85023,West,Furniture,Tables,1272.63,6,0.5,-814.4832,,22 Jan 2023
+Standard Class,Home Office,United States,Phoenix,Arizona,85023,West,Office Supplies,Binders,28.485,5,0.7,-20.889,Check Later,not_a_date
+Standard Class,Home Office,United States,Phoenix,Arizona,85023,West,Furnture,Supplies,185.376,2,0.2,-34.758,,30 Mar 2024
+Standard Class,Home Office,United States,Phoenix,Arizona,85023,West,Office Supplies,Appliances,78.272,2,0.2,5.8704,,not_a_date
+Standard Class,Home Office,United States,Park Ridge,Illinois,60068,Central,Furniture,Furnishings,254.744,7,0.6,-312.0614,,11 Sep 2024
+Standard Class,Corporate,United States,Amarillo,Texas,79109,Central,Furniture,Bookcases,205.3328,2,0.32,-36.2352,Check Later,2023-10-08
+Second Class,Consumer,United States,Chicago,Illinois,60610,Central,Office Supplies,Binders,4.788,3,0.8,-7.9002,N/A,not_a_date
+Standard Class,Corporate,United States,Lindenhurst,New York,11757,East,Office Supplies,Paper,55.48,1,0,26.6304,Check Later,Jul-24
+Second Class,Consumer,United States,San Francisco,California,94110,West,Office Supplies,Storage,340.92,3,0,3.4092,,Apr-23
+Second Class,Consumer,United States,San Francisco,California,94110,West,Furniture,Bookcases,222.666,2,0.15,10.4784,Check Later,2023-10-21
+Second Class,Consumer,United States,San Francisco,California,94110,West,Technology,Phones,703.968,4,0.2,87.996,,08-07-23
+Second Class,Consumer,United States,San Francisco,California,94110,West,Office Supplies,Storage,92.52,6,0,24.9804,,Oct-24
+Second Class,Consumer,United States,San Francisco,California,94110,West,Office Supplies,Paper,62.65,7,0,28.819,,2024-08-21
+Second Class,Consumer,United States,San Francisco,California,94110,West,Office Supplies,Paper,94.85,5,0,45.528,,07 Nov 2023
+Standard Class,Corporate,United States,Los Angeles,California,90008,West,,Phones,95.76,-3,0.2,7.182,,Apr-24
+Standard Class,Consumer,United States,Troy,New York,12180,East,Furniture,Furnishings,40.2,3,0,19.296,,2024-03-24
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Art,14.7,5,0,6.615,,2023-04-17
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Storage,704.25,5,0,84.51,Check Later,Jul-24
+Standard Class,Consumer,United States,San Diego,California,92024,West,Technology,Accessories,9.09,3,0,1.9089,,not_a_date
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Art,5.96,2,0,1.6688,,May-23
+Standard Class,Consumer,United States,New York City,New York,10024,East,Technology,Accessories,159.98,2,0,57.5928,,not_a_date
+First Class,Home Office,United States,Los Angeles,California,90045,West,Office Supplies,Labels,29.6,2,0,14.8,,14 Oct 2023
+First Class,Home Office,United States,Los Angeles,California,90045,West,Furniture,Bookcases,514.165,5,0.15,-30.245,,03 Aug 2024
+First Class,Home Office,United States,Los Angeles,California,90045,West,Technology,Phones,279.96,5,0.2,17.4975,,08-23-24
+First Class,Consumer,United States,Chicago,Illinois,60610,Central,Technology,Phones,2735.952,6,0.2,341.994,Check Later,04-06-23
+Second Class,HOME OFFICE,United States,Huntsville,Texas,77340,Central,Technology,Phones,7.992,1,0.2,,Check Later,not_a_date
+Second Class,Home Office,United States,Huntsville,Texas,77340,Central,Technology,Accessories,63.984,2,0.2,10.3974,Check Later,25 Sep 2023
+Second Class,Home Office,United States,Huntsville,Texas,77340,Central,Office Supplies,Art,70.368,2,0.2,6.1572,,Jun-23
+Standard Class,Consumer,United States,Rochester,New York,14609,East,Office Supplies,Storage,449.15,5,0,8.983,,07 Mar 2024
+Standard Class,Consumer,United States,Rochester,New York,14609,East,Office Supplies,Envelopes,11.07,3,0,5.0922,,2023-06-17
+Standard Class,Consumer,United States,Seattle,Washington,98115,West,Technology,Accessories,93.98,2,0,13.1572,,not_a_date
+Second Class,Consumer,United States,Memphis,Tennessee,38109,South,Furniture,Tables,189.882,3,0.4,-94.941,,10-31-24
+Standard Class,Consumer,United States,Fayetteville,Arkansas,72701,South,Office Supplies,Envelopes,105.42,2,0,51.6558,N/A,17 Jan 2023
+Standard Class,Consumer,United States,Costa Mesa,California,92627,West,Office Supplies,Binders,119.616,8,0.2,40.3704,,Jul-24
+Standard Class,Consumer,United States,Costa Mesa,California,92627,West,Furniture,Furnishings,255.76,4,0,81.8432,,2023-03-26
+Standard Class,Consumer,United States,Costa Mesa,California,92627,West,Furniture,Chairs,241.568,2,0.2,18.1176,,02-19-24
+Standard Class,Consumer,United States,Costa Mesa,California,92627,West,Furniture,Furnishings,69.3,9,0,22.869,,not_a_date
+Standard Class,Corporate,United States,Parker,Colorado,80134,West,Office Supplies,Binders,22.62,2,0.7,-15.08,,not_a_date
+Standard Class,Corporate,United States,Parker,Colorado,80134,West,Office Supplies,Binders,14.952,2,0.7,-11.9616,,31/01/2023
+Standard Class,Corporate,United States,Parker,Colorado,80134,West,,Chairs,801.568,999,0.2,50.098,Check Later,01/05/2024
+Standard Class,Corporate,United States,Parker,Colorado,80134,West,,Binders,2.376,3,0.7,-1.9008,,not_a_date
+Standard Class,Corporate,United States,Parker,Colorado,80134,West,Office Supplies,Paper,32.792,1,0.2,11.8871,Check Later,28/12/2024
+Second Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Binders,15.92,5,0.2,5.373,,Jul-24
+Standard Class,Consumer,United States,Atlanta,Georgia,30318,South,Office Supplies,Art,2.74,1,0,0.7398,,18 Nov 2023
+Standard Class,Consumer,United States,Atlanta,Georgia,30318,South,Office Supplies,Art,8.34,3,0,2.1684,Check Later,not_a_date
+Standard Class,Consumer,United States,Atlanta,Georgia,30318,South,Office Supplies,Storage,46.74,3,0,11.685,,26/09/2023
+Standard Class,Consumer,United States,Atlanta,Georgia,30318,South,Office Supplies,Binders,6354.95,5,0,3177.475,,20 May 2023
+First Class,Consumer,United States,Gladstone,Missouri,64118,Central,Furniture,Furnishings,126.3,3,0,40.416,,not_a_date
+First Class,Consumer,United States,Gladstone,Missouri,64118,Central,Technology,Accessories,38.04,2,0,12.1728,,Dec-24
+First Class,consumer,United States,Newark,Ohio,43055,East,Office Supplies,Art,,3,0.2,0.7152,Check Later,not_a_date
+Standard Class,Consumer,United States,Los Angeles,California,90049,West,Office Supplies,Art,6.63,3,0,1.7901,Check Later,2023-04-19
+Standard Class,Consumer,United States,Los Angeles,California,90049,West,Office Supplies,Art,5.88,2,0,1.7052,,08-21-23
+Standard Class,Home Office,United States,Great Falls,Montana,59405,West,Technology,Copiers,2999.95,5,0,1379.977,Check Later,10-25-23
+Standard Class,Home Office,United States,Great Falls,Montana,59405,West,Office Supplies,Storage,51.45,3,0,13.8915,,26 Oct 2023
+Standard Class,Home Office,United States,Great Falls,Montana,59405,West,Office Supplies,Paper,11.96,2,0,5.382,,31/10/2023
+Standard Class,Home Office,United States,Great Falls,Montana,59405,West,Office Supplies,Storage,1126.02,3,0,56.301,Check Later,Jun-23
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Technology,Accessories,18.392,1,0.2,5.2877,,01-13-24
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Storage,129.568,2,0.2,-25.9136,,03/11/2024
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Binders,14.112,9,0.8,-21.168,Check Later,2023-01-15
+First Class,Corporate,United States,Detroit,Michigan,48234,Central,Furniture,Tables,210.98,2,0,21.098,,11 Apr 2024
+First Class,Consumer,United States,Los Angeles,California,90032,West,Technology,Phones,55.176,3,0.2,-12.4146,Check Later,not_a_date
+First Class,Consumer,United States,Los Angeles,California,90032,West,Technology,Accessories,66.26,2,0,27.1666,,14/04/2024
+Standard Class,Consumer,United States,Lawrence,Massachusetts,1841,East,Office Supplies,Fasteners,22.2,5,0,10.434,Check Later,not_a_date
+Standard Class,Home Office,United States,Lakeland,Florida,33801,South,Furniture,Chairs,683.952,3,0.2,42.747,Check Later,22/09/2024
+Standard Class,Home Office,United States,Lakeland,Florida,33801,South,Furniture,Furnishings,45.696,3,0.2,5.1408,Check Later,Sep-24
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Storage,36.336,3,0.2,-7.2672,,12-03-24
+Standard Class,CONSUMER,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Supplies,666.248,1,0.2,,,07-15-24
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Envelopes,52.512,6,0.2,19.692,,2024-10-26
+Second Class,Corporate,United States,Los Angeles,California,90036,West,Furniture,Chairs,190.72,1,0.2,11.92,,not_a_date
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Furniture,Furnishings,47.94,3,0,2.397,,2023-01-22
+Second Class,Consumer,United States,Montgomery,Alabama,36116,South,Technology,Phones,979.95,5,0,274.386,Check Later,not_a_date
+Second Class,Consumer,United States,Montgomery,Alabama,36116,South,Office Supplies,Binders,22.75,5,0,11.375,Check Later,2023-09-27
+Standard Class,Consumer,United States,Mesa,Arizona,85204,West,Office Supplies,Storage,16.768,2,0.2,1.4672,,not_a_date
+Second Class,Consumer,United States,Chicago,Illinois,60653,Central,Office Supplies,Binders,42.616,7,0.8,-68.1856,,2024-03-21
+Standard Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Binders,10.752,4,0.2,3.36,,2024-06-26
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,Office Supplies,Appliances,152.94,3,0,41.2938,,May-23
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,Furniture,Chairs,283.92,4,0,70.98,,11-26-24
+First Class,Consumer,United States,Green Bay,Wisconsin,54302,Central,Technology,Accessories,468.9,6,0,206.316,,not_a_date
+First Class,Corporate,United States,Tucson,Arizona,85705,West,Technology,Phones,380.864,8,0.2,38.0864,,02/08/2024
+Standard Class,Consumer,United States,Springfield,Ohio,45503,East,Office Supplies,Storage,646.776,9,0.2,-145.5246,,26/08/2023
+Standard Class,Consumer,United States,Fort Worth,Texas,76106,Central,Technology,Accessories,58.112,2,0.2,7.264,,30 Dec 2023
+Standard Class,Consumer,United States,Fort Worth,Texas,76106,Central,Technology,Phones,100.792,1,0.2,6.2995,,2024-01-12
+Standard Class,Consumer,United States,Fort Worth,Texas,76106,Central,Furniture,Furnishings,66.112,4,0.6,-84.2928,,08 Dec 2023
+First Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Binders,41.28,6,0.2,13.932,,16 Feb 2024
+First Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Paper,13.36,2,0,6.4128,Check Later,10 Jan 2023
+Second Class,Corporate,United States,Chicago,Illinois,60653,Central,Office Supplies,Storage,250.272,9,0.2,15.642,Check Later,2024-05-18
+Second Class,Corporate,United States,Chicago,Illinois,60653,Central,Office Supplies,Binders,11.364,3,0.8,-17.046,,Feb-24
+Second Class,Corporate,United States,Chicago,Illinois,60653,Central,Office Supplies,Supplies,8.72,5,0.2,-1.744,Check Later,26/06/2023
+Second Class,Consumer,United States,San Francisco,California,94110,West,Furniture,Chairs,1121.568,2,0.2,0,,14/10/2023
+First Class,Consumer,United States,Jacksonville,Florida,32216,South,Furniture,Furnishings,34.504,1,0.2,6.0382,,2024-05-26
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Fasteners,10.824,3,0.2,2.5707,Check Later,Feb-24
+Second Class,Corporate,United States,Anaheim,California,92804,West,Office Supplies,Storage,1295.78,2,0,310.9872,,12 Nov 2023
+Second Class,Consumer,United States,Wilmington,North Carolina,28403,South,Office Supplies,Art,19.456,4,0.2,3.4048,,not_a_date
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Office Supplies,Labels,20.7,2,0,9.936,Check Later,Apr-23
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Furniture,Tables,1335.68,4,0.2,-217.048,,not_a_date
+Standard Class,Consumer,United States,Los Angeles,California,90045,West,Office Supplies,Paper,32.4,5,0,15.552,Check Later,2023-11-17
+Second Class,Consumer,United States,San Francisco,California,94110,West,Furniture,Furnishings,42.6,3,0,16.614,,Jan-23
+Second Class,Consumer,United States,San Francisco,California,94110,West,Office Supplies,Binders,84.056,7,0.2,27.3182,Check Later,03-29-23
+Second Class,Consumer,United States,Tampa,Florida,33614,South,Office Supplies,Appliances,13,5,0.2,1.3,,07 Dec 2023
+Second Class,Consumer,United States,Tampa,Florida,33614,South,Furniture,Furnishings,13.128,3,0.2,3.7743,,20/05/2023
+First Class,Consumer,United States,Seattle,Washington,98105,West,Office Supplies,Fasteners,3.96,2,0,0,,Jan-23
+First Class,Consumer,United States,Seattle,Washington,98105,West,Office Supplies,Labels,2.61,1,0,1.2006,Check Later,Jul-24
+First Class,Consumer,United States,Los Angeles,California,90008,West,Technology,Phones,374.376,3,0.2,46.797,,19 Oct 2024
+Standard Class,Corporate,United States,Seattle,Washington,98105,West,Office Supplies,Paper,91.84,8,0,45.0016,Check Later,not_a_date
+Standard Class,Corporate,United States,Seattle,Washington,98105,West,Office Supplies,Binders,81.088,7,0.2,27.3672,,18/06/2024
+Standard Class,Corporate,United States,Seattle,Washington,98105,West,Office Supplies,Paper,19.44,3,0,9.3312,,Oct-23
+Standard Class,Corporate,United States,Seattle,Washington,98105,West,Furniture,Chairs,451.152,3,0.2,0,,02-17-23
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Labels,72.45,7,0,34.776,,06/12/2024
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Fasteners,13.96,4,0,6.4216,Check Later,10/01/2024
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,33.264,7,0.2,11.2266,Check Later,2023-07-27
+Standard Class,Consumer,United States,New York City,New York,10024,East,Technology,Phones,14.85,3,0,4.0095,,not_a_date
+Standard Class,Consumer,United States,Marysville,Washington,98270,West,Office Supplies,Art,8.82,3,0,2.3814,,23/03/2023
+Second Class,Consumer,United States,Long Beach,California,90805,West,Office Supplies,Paper,160.72,14,0,78.7528,,06 Dec 2024
+Second Class,Consumer,United States,Long Beach,California,90805,West,Office Supplies,Paper,19.92,4,0,9.7608,,15/02/2024
+Second Class,Consumer,United States,Long Beach,California,90805,West,Office Supplies,Supplies,7.3,2,0,2.19,,not_a_date
+Standard Class,Consumer,United States,Chicago,Illinois,60610,Central,Office Supplies,Storage,123456,2,0.2,8.714,,08-28-24
+Standard Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,8.792,1,0.6,-5.7148,Check Later,2023-07-30
+Standard Class,Consumer,United States,Los Angeles,California,90004,West,Office Supplies,Supplies,51.52,4,0,1.5456,Check Later,07-15-24
+Standard Class,Consumer,United States,Denver,Colorado,80219,West,Technology,Phones,470.376,3,0.2,52.9173,Check Later,2024-11-03
+Standard Class,Consumer,United States,Denver,Colorado,80219,West,Technology,Phones,105.584,2,0.2,9.2386,Check Later,2023-11-18
+Standard Class,Consumer,United States,Denver,Colorado,80219,West,Office Supplies,Appliances,31.152,3,0.2,3.5046,Check Later,Aug-24
+Standard Class,Consumer,United States,Denver,Colorado,80219,West,Office Supplies,Binders,6.783,7,0.7,-4.7481,,21 Nov 2023
+Standard Class,Consumer,United States,Denver,Colorado,80219,West,Technology,Phones,406.368,4,0.2,30.4776,,Jul-24
+Standard Class,Consumer,United States,Richmond,Kentucky,40475,South,Furniture,Chairs,70.98,1,0,4.9686,,2023-09-29
+Standard Class,Consumer,United States,Richmond,Kentucky,40475,South,Office Supplies,Labels,294.93,3,0,144.5157,,not_a_date
+Standard Class,Consumer,United States,Salem,Oregon,97301,West,Technology,Phones,84.784,2,0.2,-20.1362,,12/08/2023
+Standard Class,Consumer,United States,Salem,Oregon,97301,West,Office Supplies,Paper,20.736,4,0.2,7.2576,,2023-01-17
+Standard Class,Consumer,United States,Salem,Oregon,97301,West,Office Supplies,Binders,16.821,3,0.7,-12.8961,Check Later,2023-07-04
+Standard Class,Consumer,United States,Salem,Oregon,97301,West,Office Supplies,Paper,10.368,2,0.2,3.6288,,29/08/2023
+Standard Class,Consumer,United States,Laredo,Texas,78041,Central,Office Supplies,Art,9.344,2,0.2,1.168,,2023-08-06
+Standard Class,Consumer,United States,Laredo,Texas,78041,Central,Technology,Accessories,31.2,3,0.2,9.75,,21/07/2024
+Standard Class,Consumer,United States,San Diego,California,92024,West,Office Supplies,Appliances,76.12,2,0,22.0748,,12 Dec 2024
+Standard Class,Consumer,United States,San Diego,California,92024,West,Technology,Copiers,1199.976,3,0.2,434.9913,Check Later,13/05/2023
+Standard Class,Consumer,United States,San Diego,California,92024,West,Technology,Phones,445.96,5,0.2,55.745,Check Later,01-30-23
+Standard Class,Consumer,United States,San Diego,California,92024,West,Furniture,Furnishings,327.76,8,0,91.7728,,28 Mar 2023
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Supplies,11.632,2,0.2,1.0178,,Oct-24
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Phones,143.982,3,0.4,-28.7964,Check Later,not_a_date
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Phones,494.376,4,0.4,-115.3544,,not_a_date
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Supplies,5.84,2,0.2,0.73,,2023-11-18
+Standard Class,Consumer,United States,Tampa,Florida,33614,South,Office Supplies,Storage,142.776,1,0.2,17.847,N/A,01/06/2023
+Standard Class,Consumer,United States,Tampa,Florida,33614,South,Furniture,Furnishings,45.696,3,0.2,5.1408,Check Later,22/04/2024
+Standard Class,Consumer,United States,Tampa,Florida,33614,South,Office Supplies,Binders,7.218,3,0.7,-5.5338,,12/11/2023
+Standard Class,Consumer,United States,Tampa,Florida,33614,South,Office Supplies,Binders,43.188,4,0.7,-31.6712,,2024-07-05
+Standard Class,Consumer,United States,Tampa,Florida,33614,South,Office Supplies,Paper,131.904,3,0.2,47.8152,,2023-04-03
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,3.282,2,0.7,-2.6256,Check Later,25 Oct 2023
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Art,21.168,9,0.2,2.3814,,27 Jul 2024
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,55.188,2,0.4,-10.1178,,2024-04-25
+First Class,Corporate,United States,Dallas,Texas,75217,Central,Technology,Phones,369.576,3,0.2,41.5773,,not_a_date
+First Class,Corporate,United States,Dallas,Texas,75217,Central,Office Supplies,Labels,15.712,4,0.2,5.6956,Check Later,19/05/2023
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Furnture,Paper,8.448,2,0.2,2.64,,not_a_date
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,,9,0.4,-157.9383,,2023-01-16
+Second Class,Consumer,United States,Grove City,Ohio,43123,East,Technology,Phones,119.94,10,0.4,15.992,,2023-02-19
+Second Class,Consumer,United States,Grove City,Ohio,43123,East,Office Supplies,Binders,3.648,2,0.7,-2.7968,,2023-09-06
+Second Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,40.48,2,0,15.7872,,Feb-24
+Second Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,9.94,2,0,3.0814,Check Later,not_a_date
+Second Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Binders,107.424,9,0.2,33.57,,Dec-24
+Second Class,Corporate,United States,New York City,New York,10011,East,Technology,Phones,37.91,1,0,10.9939,,28 Mar 2024
+Second Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,88.02,3,0,27.2862,,2023-09-15
+Standard Class,Consumer,United States,Chicago,Illinois,60610,Central,Office Supplies,Binders,8.69,5,0.8,-14.773,Check Later,02/08/2024
+Standard Class,Corporate,United States,Dearborn,Michigan,48126,Central,Furniture,Chairs,301.96,2,0,87.5684,,2024-07-03
+Standard Class,Corporate,United States,Dearborn,Michigan,48126,Central,Office Supplies,Appliances,555.21,5,0.1,178.901,,01/08/2023
+Standard Class,Corporate,United States,Dearborn,Michigan,48126,Central,Office Supplies,Storage,523.48,4,0,130.87,,2023-03-30
+Standard Class,Corporate,United States,Dearborn,Michigan,48126,Central,Office Supplies,Art,161.82,9,0,46.9278,,Aug-24
+Standard Class,Home Office,United States,New York City,New York,10009,East,Furniture,Furnishings,35.56,7,0,12.0904,Check Later,2023-04-09
+Standard Class,Consumer,United States,Seattle,Washington,98115,West,Office Supplies,Appliances,97.16,2,0,28.1764,,14 Sep 2024
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Office Supplies,Binders,15.24,5,0.2,5.1435,Check Later,05/08/2024
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Office Supplies,Paper,13.23,3,0,6.0858,Check Later,04 Jan 2023
+Second Class,Consumer,United States,Aurora,Colorado,80013,West,Office Supplies,Storage,243.384,3,0.2,-51.7191,Check Later,2024-03-11
+Second Class,Consumer,United States,Aurora,Colorado,80013,West,Technology,Accessories,119.8,5,0.2,29.95,,25/10/2023
+Second Class,Consumer,United States,Aurora,Colorado,80013,West,,Phones,300.768,4,0.2,30.0768,,not_a_date
+Second Class,Consumer,United States,Miami,Florida,33180,South,Technology,Accessories,17.88,3,0.2,2.4585,,not_a_date
+Second Class,Consumer,United States,Miami,Florida,33180,South,Office Supplies,Labels,235.944,3,0.2,85.5297,,27 Dec 2023
+Second Class,Corporate,United States,Warner Robins,Georgia,31088,South,Furniture,Chairs,392.94,3,0,43.2234,,Jul-23
+Standard Class,Consumer,United States, nan ,Colorado,80013,West,Office Supplies,Binders,18.882,3,0.7,-13.8468,,2023-08-20
+Standard Class,Consumer,United States,Aurora,Colorado,80013,West,Office Supplies,Appliances,122.328,3,0.2,12.2328,,07-20-24
+Standard Class,Home Office,United States,Vallejo,California,94591,West,Furniture,Furnishings,1049.2,5,0,272.792,Check Later,Nov-23
+Standard Class,Home Office,United States,Vallejo,California,94591,West,Office Supplies,Binders,15.424,4,0.2,5.0128,,25/03/2023
+Standard Class,Corporate,United States,,Minnesota,55407,Central,Furniture,Furnishings,18.84,3,0,6.0288,Check Later,03 Dec 2023
+Second Class,Consumer,United States,Mission Viejo,California,92691,West,Office Supplies,Storage,330.4,2,0,85.904,,Oct-23
+Second Class,Consumer,United States,Mission Viejo,California,92691,West,Office Supplies,Labels,26.25,7,0,12.6,Check Later,31/07/2024
+Standard Class,Consumer,United States,Rochester Hills,Michigan,48307,Central,Technology,Accessories,132.52,4,0,54.3332,,not_a_date
+Standard Class,Home Office,United States,Plainfield,New Jersey,7060,East,Office Supplies,Paper,6.48,1,0,3.1752,Check Later,Jan-24
+Standard Class,Home Office,United States,Columbus,Indiana,47201,Central,Office Supplies,Appliances,209.3,2,0,56.511,,2024-09-04
+Standard Class,Corporate,United States,Sierra Vista,Arizona,85635,West,Furnture,Fasteners,31.56,5,0.2,9.8625,Check Later,03-02-23
+Standard Class,Corporate,United States,Sierra Vista,Arizona,85635,West,Office Supplies,Appliances,30.144,2,0.2,3.0144,Check Later,Nov-24
+Second Class,Corporate,United States,Vancouver,Washington,98661,West,Furniture,Furnishings,14.8,4,0,6.068,Check Later,Jan-24
+Second Class,Corporate,United States,Vancouver,Washington,98661,West,Technology,Phones,302.376,3,0.2,22.6782,,Sep-23
+Second Class,Corporate,United States,Vancouver,Washington,98661,West,Technology,Accessories,316,4,0,31.6,,not_a_date
+Standard Class,Home Office,United States,New York City,New York,10024,East,Office Supplies,Paper,379.4,10,0,178.318,,04/03/2024
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Paper,97.82,2,0,45.9754,Check Later,2024-06-28
+Standard Class,Corporate,United States,New York City,New York,10035,East,Technology,Accessories,103.12,8,0,10.312,,29 Mar 2023
+Standard Class,Consumer,United States,Columbus,Ohio,43229,East,Office Supplies,Appliances,113.552,2,0.2,8.5164,,not_a_date
+Standard Class,Consumer,United States,Columbus,Ohio,43229,East,Office Supplies,Binders,3.318,2,0.7,-2.6544,,2023-04-05
+Standard Class,Consumer,United States,Columbus,Ohio,43229,East,Office Supplies,Envelopes,134.288,2,0.2,45.3222,,not_a_date
+Same Day,Home Office,United States,Aurora,Illinois,60505,Central,Furniture,Chairs,701.372,2,0.3,-50.098,,2023-12-12
+Same Day,Home Office,United States,Aurora,Illinois,60505,Central,Office Supplies,Binders,2.308,2,0.8,-3.462,,05 Dec 2024
+Standard Class,Consumer,United States,Arlington,Texas,76017,Central,Office Supplies,Storage,999.432,7,0.2,124.929,,2023-10-30
+Standard Class,Consumer,United States,Arlington,Texas,76017,Central,Office Supplies,Storage,724.08,14,0.2,-135.765,Check Later,12 Jan 2024
+Standard Class,Consumer,United States,Arlington,Texas,76017,Central,Furniture,Tables,918.785,5,0.3,-118.1295,Check Later,16/01/2023
+Standard Class,Consumer,United States,Arlington,Texas,76017,Central,Office Supplies,Binders,2.724,3,0.8,-4.2222,,10/10/2023
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Storage,459.95,5,0,18.398,Check Later,Feb-23
+Same Day,Consumer,United States,Louisville,Kentucky,40214,South,Office Supplies,Fasteners,10.74,3,0,5.2626,Check Later,2023-08-20
+Second Class,Corporate,United States,Dallas,Texas,75081,Central,,Supplies,23.76,3,0.2,2.079,Check Later,2023-01-30
+Second Class,Corporate,United States,Dallas,Texas,75081,Central,Office Supplies,Paper,85.056,3,0.2,28.7064,,18 Nov 2024
+Second Class,Corporate,United States,Dallas,Texas,75081,Central,Technology,Phones,381.576,3,0.2,28.6182,,2023-09-19
+First Class,Consumer,United States,Cleveland,Ohio,44105,East,Furniture,Furnishings,30.36,5,0.2,8.7285,N/A,not_a_date
+Standard Class,Home Office,United States,Chicago,Illinois,60653,Central,Furniture,Furnishings,23.976,3,0.6,-14.3856,,08-18-23
+Standard Class,Home Office,United States,Chicago,Illinois,60653,Central,Furniture,Tables,108.925,1,0.5,-71.8905,Check Later,01-21-24
+Standard Class,Home Office,United States,Chicago,Illinois,60653,Central,Office Supplies,Paper,36.352,8,0.2,11.36,,2023-04-16
+Standard Class,Consumer,United States,Quincy,Illinois,62301,Central,Office Supplies,Art,19.56,5,0.2,1.7115,Check Later,10-24-23
+First Class,Consumer,United States,Columbus,Indiana,47201,Central,Offfice supplies,Appliances,61.44,3,0,16.5888,Check Later,10/02/2024
+First Class,Consumer,United States, nan ,Indiana,47201,Central,Office Supplies,Paper,38.9,5,0,17.505,,not_a_date
+First Class,Consumer,United States,Columbus,Indiana,47201,Central,Technology,Accessories,99.39,3,0,40.7499,,Mar-24
+Standard Class,Consumer,United States,Tyler,Texas,75701,Central,Office Supplies,Appliances,2.688,3,0.8,-7.392,,19/09/2023
+Standard Class,Consumer,United States,Tyler,Texas,75701,Central,Technology,Accessories,27.816,3,0.2,4.5201,Check Later,06-19-23
+Standard Class,Consumer,United States, nan ,Texas,75701,Central,Furniture,Furnishings,82.524,3,0.6,-41.262,,2024-12-11
+Standard Class,Consumer,United States,Tyler,Texas,75701,Central,Office Supplies,Binders,182.994,3,0.8,-320.2395,,Jun-23
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,14.352,3,0.2,4.6644,,Jun-24
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Storage,64.96,2,0,2.5984,,2023-05-04
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Storage,68.6,4,0,18.522,,not_a_date
+Same Day,Corporate,United States,Burlington,North Carolina,27217,South,Technology,Machines,7999.98,4,0.5,-3839.9904,,Feb-23
+Same Day,Corporate,United States,Burlington,North Carolina,27217,South,Office Supplies,Appliances,167.44,2,0.2,14.651,Check Later,10 Feb 2023
+First Class,Consumer,United States,Jackson,Mississippi,39212,South,Technology,Accessories,479.97,3,0,163.1898,,11-05-23
+First Class,Consumer,United States,Jackson,Mississippi,39212,South,Office Supplies,Labels,14.62,2,0,6.8714,,Jun-23
+First Class,Consumer,United States,Jackson,Mississippi,39212,South,Office Supplies,Paper,19.44,3,0,9.3312,,Mar-24
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,191.984,2,0.2,4.7996,Check Later,05-13-24
+Second Class,Consumer,United States,Waynesboro,Virginia,22980,South,Furniture,Furnishings,104.01,1,0,14.5614,,2024-12-28
+Second Class,Consumer,United States,Waynesboro,Virginia,22980,South,Technology,Phones,284.82,1,0,74.0532,,05-20-24
+Second Class,Consumer,United States,Waynesboro,Virginia,22980,South,Office Supplies,Storage,36.84,3,0,10.3152,,not_a_date
+Standard Class,Consumer,United States,Los Angeles,California,90036,West,Technology,Accessories,166.24,1,0,24.936,Check Later,2023-06-20
+Standard Class,Consumer,United States,Los Angeles,California,90036,West,Office Supplies,Paper,33.4,5,0,16.032,,Jan-24
+First Class,Home Office,United States,Chester,Pennsylvania,19013,East,Office Supplies,Art,198.272,8,0.2,17.3488,Check Later,Jul-23
+First Class,Home Office,United States,Chester,Pennsylvania,19013,East,Office Supplies,Labels,47.36,4,0.2,17.76,Check Later,01-25-24
+First Class,Home Office,United States,Chester,Pennsylvania,19013,East,Office Supplies,Envelopes,200.984,7,0.2,62.8075,,07 Oct 2023
+First Class,Home Office,United States,Chester,Pennsylvania,19013,East,Office Supplies,Labels,97.696,4,0.2,31.7512,Check Later,02-02-23
+First Class,Home Office,United States,Chester,Pennsylvania,19013,East,Office Supplies,Art,2.696,1,0.2,0.8088,Check Later,11-11-24
+First Class,Home Office,United States,Chester,Pennsylvania,19013,East,Office Supplies,Binders,18.588,2,0.7,-13.6312,,10/03/2023
+First Class,Home Office,United States,Chester,Pennsylvania,19013,East,Office Supplies,Binders,4.896,3,0.7,-3.4272,,01/07/2024
+Standard Class,Corporate,United States,Cleveland,Ohio,44105,East,Furniture,Furnishings,15.072,3,0.2,4.1448,,12-28-23
+Second Class,Corporate,United States,,Washington,98103,West,Furniture,Furnishings,209.88,3,0,35.6796,,2023-05-06
+Standard Class,Consumer,United States,Long Beach,California,90805,West,Furniture,Tables,369.912,3,0.2,-13.8717,Check Later,17/02/2023
+Standard Class,Corporate,United States,Cary,North Carolina,27511,South,Office Supplies,Paper,10.368,2,0.2,3.6288,,Dec-23
+Standard Class,Corporate,United States,Cary,North Carolina,27511,South,,Appliances,166.84,5,0.2,18.7695,,23 Jun 2023
+Standard Class,Corporate,United States,Cary,North Carolina,27511,South,Technology,Accessories,15.216,1,0.2,2.2824,,not_a_date
+First Class,Consumer,United States,New York City,New York,10035,East,Technology,Accessories,119.96,4,0,52.7824,,14 Jul 2024
+First Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,883.92,5,0.2,-110.49,,02-28-24
+First Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,46.72,8,0.2,15.768,,12 Feb 2023
+First Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Paper,55.48,1,0,26.6304,,Sep-23
+Standard Class,Consumer,United States,Palm Coast,Florida,32137,South,Office Supplies,Envelopes,24.448,4,0.2,8.8624,,Nov-24
+Standard Class,Corporate,United States,Mount Vernon,New York,10550,East,Office Supplies,Appliances,281.34,6,0,109.7226,Check Later,Jan-24
+Standard Class,Corporate,United States,Mount Vernon,New York,10550,East,Technology,Phones,307.98,2,0,89.3142,,2023-10-07
+Standard Class,Corporate,United States,Mount Vernon,New York,10550,East,Technology,Accessories,299.97,3,0,113.9886,,09-10-23
+Second Class,Corporate,United States,Seattle,Washington,98105,West,Office Supplies,Binders,19.92,5,0.2,6.972,Check Later,13 Aug 2023
+First Class,Consumer,United States,Dover,Delaware,19901,East,Furniture,Furnishings,9.94,2,0,3.0814,,15 May 2024
+Standard Class,Consumer,United States,Newark,Ohio,43055,East,Furniture,Furnishings,103.056,3,0.2,24.4758,,28/07/2024
+Standard Class,Home Office,United States,Orem,Utah,84057,West,Office Supplies,Binders,59.808,3,0.2,19.4376,,18/03/2023
+Standard Class,Home Office,United States,Orem,Utah,84057,West,Furniture,Furnishings,73.32,6,0,21.996,Check Later,Nov-23
+Standard Class,Home Office,United States,Los Angeles,California,90045,West,Office Supplies,Paper,146.82,3,0,73.41,,09-02-24
+Standard Class,Corporate,United States,Detroit,Michigan,48205,Central,Furniture,Tables,1652.94,3,0,231.4116,,not_a_date
+Standard Class,Corporate,United States,Detroit,Michigan,48205,Central,Office Supplies,Storage,296.37,3,0,80.0199,,not_a_date
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,129.92,5,0.2,21.112,,07-30-24
+Standard Class,Corporate,United States,Hialeah,Florida,33012,South,Office Supplies,Supplies,45.584,7,0.2,5.1282,,Apr-24
+Standard Class,Consumer,United States,Austin,Texas,78745,Central,Office Supplies,Envelopes,17.568,2,0.2,6.3684,,not_a_date
+Standard Class,Consumer,United States,Austin,Texas,78745,Central,Technology,Phones,55.992,1,0.2,5.5992,,01/12/2023
+First Class,Consumer,United States,Oceanside,New York,11572,East,Office Supplies,Paper,182.72,8,0,84.0512,,Dec-24
+First Class,Consumer,United States,Oceanside,New York,11572,East,Furniture,Tables,400.032,2,0.4,-153.3456,Check Later,15/09/2023
+First Class,Consumer,United States,Oceanside,New York,11572,East,Office Supplies,Storage,33.63,3,0,10.089,Check Later,22 Jul 2024
+First Class,Consumer,United States,Oceanside,New York,11572,East,,Chairs,542.646,1000,0.1,102.4998,,04-29-23
+First Class,Consumer,United States,Oceanside,New York,11572,East,Office Supplies,Labels,6.3,2,0,3.024,,not_a_date
+Standard Class,Home Office,United States,Seattle,Washington,98115,West,Office Supplies,Storage,242.94,3,0,9.7176,,18/02/2023
+Standard Class,Home Office,United States,Seattle,Washington,98115,West,Technology,Accessories,179.97,3,0,86.3856,,17 Apr 2023
+Standard Class,Home Office,United States,Seattle,Washington,98115,West,Office Supplies,Binders,99.696,6,0.2,33.6474,,03 Sep 2023
+Standard Class,Home Office,United States,Seattle,Washington,98115,West,Office Supplies,Binders,27.936,4,0.2,9.4284,,Feb-23
+Standard Class,Home Office,United States,Seattle,Washington,98115,West,Furniture,Bookcases,84.98,1,0,18.6956,,12/02/2023
+Standard Class,Home Office,United States,Seattle,Washington,98115,West,Office Supplies,Binders,18.72,5,0.2,6.552,N/A,26/02/2024
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Technology,Accessories,49.98,2,0,8.4966,,15/12/2024
+Standard Class,Home Office,United States,Naperville,Illinois,60540,Central,Office Supplies,Labels,11.784,3,0.2,4.2717,,30 Mar 2023
+Standard Class,Home Office,United States,Naperville,Illinois,60540,Central,Office Supplies,Storage,272.736,3,0.2,-64.7748,,not_a_date
+Standard Class,Home Office,United States,Naperville,Illinois,60540,Central,Office Supplies,Binders,3.54,2,0.8,-5.487,Check Later,07-21-24
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Supplies,51.52,5,0.2,-10.948,,Nov-24
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Paper,3.528,1,0.2,1.1466,Check Later,not_a_date
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Paper,4.624,1,0.2,1.6762,,19 Sep 2024
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Supplies,55.168,4,0.2,6.2064,,12-23-24
+Same Day,Corporate,United States,San Diego,California,92105,West,Furniture,Tables,567.12,10,0.2,-28.356,,25 Mar 2024
+Same Day,Corporate,United States,San Diego,California,92105,West,Office Supplies,Storage,359.32,4,0,7.1864,,May-23
+Second Class,Consumer,United States,Evanston,Illinois,60201,Central,Technology,Phones,11.992,1,0.2,0.8994,,Sep-23
+Standard Class,Consumer,United States,Trenton,Michigan,48183,Central,Office Supplies,Binders,58.05,3,0,26.703,Check Later,not_a_date
+Standard Class,Consumer,United States,Trenton,Michigan,48183,Central,Furniture,Furnishings,157.74,11,0,56.7864,Check Later,08-28-23
+Standard Class,Consumer,United States,Trenton,Michigan,48183,Central,Office Supplies,Art,56.98,7,0,22.792,,06-05-24
+Standard Class,Consumer,United States,Trenton,Michigan,48183,Central,Office Supplies,Binders,2.88,1,0,1.4112,Check Later,01 Feb 2023
+First Class,Corporate,United States,San Francisco,California,94110,West,Technology,Copiers,1199.976,3,0.2,374.9925,,01-13-24
+Standard Class,Consumer,United States,Los Angeles,California,90036,West,Furniture,Furnishings,79.92,4,0,28.7712,Check Later,2023-08-01
+Standard Class,Corporate,United States,Jacksonville,Florida,32216,South,Furniture,Tables,383.438,4,0.45,-167.3184,,01 Aug 2023
+Standard Class,Consumer,United States,Cottage Grove,Minnesota,55016,Central,Office Supplies,Storage,24.56,2,0,6.8768,,not_a_date
+Standard Class,Consumer,United States,Cottage Grove,Minnesota,55016,Central,,Accessories,119.8,4,0,47.92,,not_a_date
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Binders,13.128,3,0.2,4.2666,,Apr-24
+Standard Class,Corporate,United States,Green Bay,Wisconsin,54302,Central,Office Supplies,Paper,22.72,4,0,10.224,,27/06/2023
+Standard Class,Consumer,United States,Los Angeles,California,90004,West,Office Supplies,Paper,58.32,9,0,27.9936,Check Later,27 Apr 2023
+Standard Class,Corporate,United States,Atlanta,Georgia,30318,South,Office Supplies,Labels,12.39,3,0,5.6994,,2023-05-08
+Standard Class,Consumer,United States,Columbus,Ohio,43229,East,Technology,Phones,107.982,3,0.4,-26.9955,,02/11/2024
+Second Class,Corporate,United States,Bossier City,Louisiana,71111,South,Office Supplies,Envelopes,11.36,2,0,5.3392,Check Later,not_a_date
+Second Class,Corporate,United States,Bossier City,Louisiana,71111,South,Office Supplies,Envelopes,50.94,3,0,25.47,Check Later,01/10/2023
+Second Class,Corporate,United States,Bossier City,Louisiana,71111,South,Technology,Accessories,646.74,6,0,258.696,Check Later,not_a_date
+Second Class,Corporate,United States,Bossier City,Louisiana,71111,South,Office Supplies,Binders,5.64,3,0,2.7072,Check Later,2023-04-20
+Second Class,Corporate,United States,Bossier City,Louisiana,71111,South,Office Supplies,Storage,572.58,6,0,34.3548,,2024-01-03
+Standard Class,Corporate,United States,Saint Petersburg,Florida,33710,South,Furniture,Furnishings,310.88,2,0.2,23.316,Check Later,Apr-24
+Standard Class,Consumer,United States,Arlington,Virginia,22204,South,Furniture,Chairs,641.96,2,0,179.7488,Check Later,2024-09-28
+Standard Class,Corporate,United States,Des Moines,Iowa,50315,Central,Office Supplies,Binders,18.28,2,0,9.14,,10-14-24
+Standard Class,Corporate,United States,Des Moines,Iowa,50315,Central,Technology,Phones,207,3,0,51.75,,Oct-23
+Standard Class,Corporate,United States,Des Moines,Iowa,50315,Central,Office Supplies,Binders,32.35,5,0,16.175,,01 Mar 2023
+Standard Class,Corporate,United States,Des Moines,Iowa,50315,Central,Office Supplies,Binders,7.71,1,0,3.4695,Check Later,05-22-24
+Standard Class,Corporate,United States,Des Moines,Iowa,50315,Central,Office Supplies,Art,40.3,2,0,10.881,Check Later,not_a_date
+Standard Class,Corporate,United States,Des Moines,Iowa,50315,Central,Furniture,Furnishings,34.58,7,0,14.5236,Check Later,not_a_date
+Standard Class,Consumer,United States,Cincinnati,Ohio,45231,East,Office Supplies,Art,32.76,7,0.2,3.6855,,Dec-23
+First Class,Home Office,United States,San Francisco,California,94110,West,Furniture,Chairs,544.008,3,0.2,40.8006,,28 Mar 2023
+First Class,Home Office,United States,San Francisco,California,94110,West,Office Supplies,Paper,59.94,3,0,28.1718,,13/10/2023
+First Class,Home Office,United States,San Francisco,California,94110,West,Office Supplies,Paper,23.92,4,0,11.7208,Check Later,not_a_date
+First Class,Home Office,United States,San Francisco,California,94110,West,Office Supplies,Paper,4.28,1,0,1.926,,28/01/2024
+Second Class,consumer,United States,Columbus,Ohio,43229,East,Office Supplies,Binders,,5,0.7,-22.449,,not_a_date
+Second Class,Consumer,United States,Columbus,Ohio,43229,East,Technology,Accessories,24,2,0.2,-2.7,,Jun-24
+Second Class,Consumer,United States,Columbus,Ohio,43229,East,Furniture,Bookcases,35.49,1,0.5,-15.6156,Check Later,02 Apr 2024
+Second Class,Consumer,United States,Columbus,Ohio,43229,East,Technology,Accessories,47.984,2,0.2,0.5998,,2024-04-18
+Standard Class,Corporate,United States,Columbia,South Carolina,29203,South,Office Supplies,Envelopes,186.69,3,0,87.7443,,2023-04-12
+Second Class,Consumer,United States,Lancaster,California,93534,West,Office Supplies,Binders,17.456,2,0.2,5.8914,,Dec-23
+Standard Class,Consumer,United States,Lancaster,California,93534,West,Furniture,Chairs,348.928,2,0.2,34.8928,,25 Mar 2023
+Standard Class,Consumer,United States,Richmond,Virginia,23223,South,Office Supplies,Binders,143.96,4,0,69.1008,,2023-10-30
+Standard Class,Consumer,United States,Richmond,Virginia,23223,South,Office Supplies,Storage,15.42,1,0,4.1634,,Sep-24
+Standard Class,Consumer,United States,Richmond,Virginia,23223,South,Office Supplies,Binders,43.04,8,0,21.0896,,18/12/2024
+Standard Class,Consumer,United States,Richmond,Virginia,23223,South,Furniture,Chairs,332.94,3,0,79.9056,Check Later,31 Aug 2024
+Same Day,Consumer,United States,Asheville,North Carolina,28806,South,Technology,Phones,1363.96,5,0.2,85.2475,Check Later,not_a_date
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Office Supplies,Labels,9.96,2,0,4.5816,Check Later,17 Sep 2023
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Office Supplies,Paper,21.72,4,0,10.6428,,not_a_date
+Standard Class,Consumer,United States,Rochester,Minnesota,55901,Central,Office Supplies,Binders,20.16,7,0,9.8784,Check Later,02/09/2023
+First Class,Corporate,United States,Rochester,New York,14609,East,Office Supplies,Paper,132.79,7,0,63.7392,,2023-05-21
+First Class,Corporate,United States,Rochester,New York,14609,East,Office Supplies,Paper,12.96,2,0,6.2208,,2024-02-23
+First Class,Corporate,United States,Rochester,New York,14609,East,Office Supplies,Labels,21.56,7,0,10.3488,,06 Dec 2023
+Standard Class,Consumer,United States,Lake Elsinore,California,92530,West,Furniture,Chairs,283.92,5,0.2,17.745,Check Later,16 Apr 2023
+First Class,Corporate,United States,San Diego,California,92105,West,Furniture,Furnishings,22.23,1,0,7.3359,,Aug-23
+First Class,Corporate,United States,San Diego,California,92105,West,Technology,Phones,215.968,2,0.2,18.8972,,22/10/2023
+Second Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Appliances,355.32,9,0,99.4896,,2024-02-12
+Standard Class,Corporate,United States,Monroe,Louisiana,71203,South,Office Supplies,Paper,12.96,2,0,6.2208,Check Later,16/10/2023
+First Class,Consumer,United States,San Francisco,California,94122,West,Furniture,Furnishings,18.28,2,0,6.2152,,19/05/2023
+Standard Class,Consumer,United States,Denver,Colorado,80219,West,Office Supplies,Art,43.176,3,0.2,4.3176,Check Later,12-16-23
+Standard Class,Consumer,United States,Denver,Colorado,80219,West,Technology,Phones,1983.968,4,0.2,247.996,,18 Oct 2024
+First Class,Consumer,United States,Omaha,Nebraska,68104,Central,Furniture,Furnishings,28.4,2,0,11.076,,2023-08-08
+First Class,Consumer,United States,Omaha,Nebraska,68104,Central,Technology,Accessories,149.97,3,0,50.9898,,Jul-23
+First Class,Consumer,United States,Edmonds,Washington,98026,West,Office Supplies,Art,11.52,4,0,3.2256,,07-10-24
+First Class,Consumer,United States,Edmonds,Washington,98026,West,Furniture,Tables,1298.55,5,0,,Check Later,Sep-23
+First Class,Consumer,United States,Edmonds,Washington,98026,West,Office Supplies,Appliances,213.92,4,0,62.0368,,20 Aug 2024
+First Class,Consumer,United States,Edmonds,Washington,98026,West,Technology,Accessories,25.78,2,0,2.578,,Sep-24
+Same Day,Consumer,United States,Santa Ana,California,92704,West,Furniture,Furnishings,18.28,2,0,6.2152,Check Later,not_a_date
+Same Day,Consumer,United States,Santa Ana,California,92704,West,Technology,Accessories,1399.93,7,0,601.9699,,2024-02-12
+First Class,Corporate,United States,Milwaukee,Wisconsin,53209,Central,Office Supplies,Paper,51.84,8,0,24.8832,,08-18-23
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,5.344,1,0.2,1.8704,,05-01-24
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,41.472,8,0.2,14.5152,Check Later,04-13-23
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,3.168,3,0.7,-2.4288,,28 Jan 2023
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,1228.465,5,0.3,0,Check Later,2024-02-22
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,31.086,3,0.7,-22.7964,Check Later,19/08/2024
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,335.52,4,0.2,117.432,,15 Jun 2023
+Standard Class,Consumer,United States,Belleville,New Jersey,7109,East,Technology,Accessories,239.97,3,0,71.991,,not_a_date
+Standard Class,Consumer,United States,Belleville,New Jersey,7109,East,Office Supplies,Labels,9.82,2,0,4.8118,N/A,23 Mar 2024
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Technology,Accessories,67.8,4,0,4.068,,not_a_date
+Standard Class,Consumer,United States,San Francisco,California,94110,West,Technology,Accessories,167.97,3,0,40.3128,Check Later,02-28-23
+Standard Class,Consumer,United States,Lakeville,Minnesota,55044,Central,Office Supplies,Fasteners,35,7,0,16.8,,04/06/2024
+Standard Class,Consumer,United States,Lakeville,Minnesota,55044,Central,Office Supplies,Supplies,37.24,4,0,10.7996,Check Later,07-24-23
+Standard Class,Consumer,United States,Lakeville,Minnesota,55044,Central,Office Supplies,Envelopes,15.28,2,0,7.4872,,13/09/2023
+Second Class,Consumer,United States,Florence,Kentucky,41042,South,Furniture,Chairs,301.96,2,0,90.588,,Dec-24
+Second Class,Consumer,United States,Florence,Kentucky,41042,South,Office Supplies,Appliances,180.66,3,0,50.5848,Check Later,13/06/2023
+Second Class,Consumer,United States,Florence,Kentucky,41042,South,Technology,Phones,191.98,2,0,51.8346,,22/05/2024
+Second Class,Consumer,United States,Florence,Kentucky,41042,South,Technology,Phones,65.99,1,0,17.1574,Check Later,2023-01-15
+Standard Class,Corporate,United States,Tampa,Florida,33614,South,Office Supplies,Art,35.216,2,0.2,2.6412,,30/05/2024
+Standard Class,Corporate,United States,Tampa,Florida,33614,South,Office Supplies,Appliances,23.696,2,0.2,6.5164,,27 Sep 2023
+Standard Class,Corporate,United States,Tampa,Florida,33614,South,Technology,Machines,265.475,1,0.5,-111.4995,,20/11/2023
+Second Class,Consumer,United States,Tyler,Texas,75701,Central,Office Supplies,Binders,51.184,4,0.8,-79.3352,Check Later,24/06/2024
+Standard Class,Home Office,United States, nan ,Tennessee,38401,South,Office Supplies,Paper,9.664,2,0.2,3.2616,,09/03/2024
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,Technology,Phones,21.072,3,0.2,1.5804,,2023-12-14
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Art,60.45,3,0,16.3215,,2023-03-13
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Art,11.52,4,0,3.3408,Check Later,05/08/2023
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Bookcases,186.048,4,0.2,9.3024,,not_a_date
+First Class,Corporate,United States,Los Angeles,California,90036,West,Office Supplies,Binders,37.44,4,0.2,11.7,,11/11/2024
+First Class,Corporate,United States,Los Angeles,California,90036,West,Office Supplies,Binders,26.976,4,0.2,8.7672,,2023-06-03
+First Class,CORPORATE,United States,Los Angeles,California,90036,West,Office Supplies,Supplies,11.36,2,0,,Check Later,2023-08-15
+First Class,Corporate,United States,Los Angeles,California,90036,West,Office Supplies,Labels,14.62,2,0,6.8714,Check Later,2023-12-07
+Standard Class,Consumer,United States,Louisville,Kentucky,40214,South,Technology,Phones,83.72,7,0,23.4416,,Feb-23
+Standard Class,Consumer,United States,Louisville,Kentucky,40214,South,Furniture,Chairs,287.94,3,0,77.7438,,not_a_date
+Standard Class,Consumer,United States,Lorain,Ohio,44052,East,Furniture,Furnishings,48.896,4,0.2,8.5568,,Feb-24
+Standard Class,Corporate,United States,Linden,New Jersey,7036,East,Technology,Accessories,115.36,7,0,49.6048,,04-18-23
+Second Class,Corporate,United States,Salinas,California,93905,West,Office Supplies,Art,5.16,2,0,1.3416,Check Later,27/06/2023
+Second Class,Corporate,United States,Salinas,California,93905,West,Office Supplies,Paper,38.88,6,0,18.6624,Check Later,29/06/2024
+Standard Class,Consumer,United States,Jackson,Mississippi,39212,South,Office Supplies,Art,185.88,6,0,50.1876,,2024-04-09
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,44.46,2,0,14.6718,,02/12/2024
+Standard Class,Consumer,United States, nan ,New York,10035,East,Office Supplies,Storage,242.94,3,0,9.7176,Check Later,not_a_date
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,39.96,2,0,18.7812,,not_a_date
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Supplies,102.3,10,0,26.598,,2023-10-02
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Storage,21.36,2,0,5.7672,Check Later,2024-06-07
+Standard Class,Home Office,United States,New Brunswick,New Jersey,8901,East,Office Supplies,Paper,7.61,1,0,3.5767,,2023-11-29
+Standard Class,Home Office,United States,New Brunswick,New Jersey,8901,East,Office Supplies,Fasteners,7.16,2,0,3.58,,Jul-23
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Office Supplies,Supplies,7.36,2,0,0.1472,,07-26-23
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Office Supplies,Art,23.1,2,0,10.626,,09 Jun 2024
+Second Class,Corporate,United States,Jacksonville,Florida,32216,South,Technology,Accessories,191.472,6,0.2,40.6878,,02 Jun 2024
+Second Class,Corporate,United States,Jacksonville,Florida,32216,South,Office Supplies,Art,5.248,2,0.2,0.5904,Check Later,23/03/2024
+Second Class,Corporate,United States,Jacksonville,Florida,32216,South,Technology,Phones,59.184,2,0.2,5.1786,,Jul-24
+Standard Class,Corporate,United States,Springfield,Virginia,22153,South,Office Supplies,Labels,2.89,1,0,1.3583,Check Later,28 Oct 2024
+Standard Class,Corporate,United States,Springfield,Virginia,22153,South,Furniture,Furnishings,51.94,1,0,21.2954,,19/05/2024
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Labels,15.936,4,0.2,5.1792,,Oct-23
+Standard Class,Corporate,United States,Lancaster,Pennsylvania,17602,East,Office Supplies,Binders,44.91,6,0.7,-35.928,Check Later,27 Nov 2023
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,1141.47,5,0.7,-760.98,Check Later,2024-08-10
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,280.782,3,0.4,-46.797,Check Later,Jun-23
+First Class,Consumer,United States,Concord,New Hampshire,3301,East,Office Supplies,Paper,34.44,3,0,17.22,Check Later,29 Oct 2024
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Paper,11.36,2,0,5.2256,Check Later,05-11-23
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,106.344,7,0.2,37.2204,Check Later,May-24
+Standard Class,Consumer,United States,Charlotte,North Carolina,28205,South,Office Supplies,Paper,192.16,5,0.2,67.256,,2023-06-24
+Standard Class,Home Office,United States,Concord,New Hampshire,3301,East,Furniture,Furnishings,322.59,3,0,64.518,,21 Dec 2023
+Standard Class,Home Office,United States,Concord,New Hampshire,3301,East,Technology,Accessories,29.99,1,0,13.1956,,2024-12-24
+Standard Class,Home Office,United States,,New Hampshire,3301,East,Technology,Accessories,371.97,3,0,66.9546,,2023-08-04
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,5.892,4,0.7,-4.1244,,2023-06-18
+Second Class,Home Office,United States,New York City,New York,10024,East,Office Supplies,Binders,68.472,3,0.2,23.1093,,2023-08-23
+Second Class,home office,United States,New York City,New York,10024,East,Furniture,Chairs,,5,0.1,262.39,Check Later,10-21-24
+Standard Class,Consumer,United States,Springfield,Virginia,22153,South,Office Supplies,Storage,30.84,2,0,8.3268,Check Later,not_a_date
+Same Day,Consumer,United States,San Francisco,California,94109,West,Office Supplies,Art,13.48,4,0,5.9312,Check Later,not_a_date
+First Class,Home Office,United States,Detroit,Michigan,48227,Central,Furniture,Furnishings,31.4,5,0,10.048,,2023-06-10
+Standard Class,Consumer,United States,Rochester,New York,14609,East,Furniture,Furnishings,17.46,2,0,5.9364,Check Later,20/01/2024
+Second Class,Corporate,United States,Los Angeles,California,90045,West,Office Supplies,Binders,13.944,3,0.2,4.5318,,05-10-24
+Standard Class,Consumer,United States,San Diego,California,92105,West,Office Supplies,Storage,83.76,12,0,1.6752,,09-01-23
+Standard Class,Home Office,United States,Columbia,Maryland,21044,East,Office Supplies,Binders,,7,0,18.4534,,23/11/2023
+Standard Class,Corporate,United States,San Francisco,California,94122,West,Office Supplies,Paper,34.68,6,0,16.9932,,04/11/2023
+Standard Class,Consumer,United States,New Rochelle,New York,10801,East,Technology,Accessories,149.95,5,0,14.995,,23 Jul 2023
+Standard Class,Consumer,United States,New Rochelle,New York,10801,East,Office Supplies,Binders,51.312,3,0.2,18.6006,,2023-01-21
+First Class,Home Office,United States,Detroit,Michigan,48227,Central,Office Supplies,Paper,4.54,1,0,2.043,Check Later,29/11/2024
+First Class,Home Office,United States,Detroit,Michigan,48227,Central,Office Supplies,Art,15.92,4,0,5.4128,Check Later,not_a_date
+First Class,Home Office,United States,Detroit,Michigan,48227,Central,Technology,Phones,543.92,8,0,135.98,Check Later,not_a_date
+First Class,Corporate,United States,San Francisco,California,94122,West,Office Supplies,Storage,155.82,7,0,42.0714,,Jun-24
+First Class,Corporate,United States,San Francisco,California,94122,West,Office Supplies,Binders,70.008,3,0.2,24.5028,,22 Sep 2023
+Second Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Envelopes,15.648,2,0.2,5.0856,,Jul-24
+Standard Class,Consumer,United States,Detroit,Michigan,48227,Central,Office Supplies,Labels,103.6,7,0,51.8,Check Later,Oct-24
+Second Class,Corporate,United States,Auburn,New York,13021,East,Office Supplies,Paper,46.96,8,0,22.5408,Check Later,2024-08-02
+First Class,Corporate,United States,Springfield,Ohio,45503,East,Office Supplies,Binders,8.904,2,0.7,-6.5296,,26 Jun 2023
+First Class,Consumer,United States,Garland,Texas,75043,Central,Office Supplies,Labels,10.44,5,0.2,3.393,Check Later,Nov-23
+First Class,Consumer,United States,Garland,Texas,75043,Central,Office Supplies,Binders,18.336,4,0.8,-32.088,Check Later,2023-04-17
+First Class,Consumer,United States,Chicago,Illinois,60653,Central,Technology,Phones,323.976,3,0.2,20.2485,,31 Jan 2023
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Office Supplies,Paper,20.04,3,0,9.6192,Check Later,Mar-24
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Office Supplies,Storage,64.96,2,0,2.5984,,04-10-23
+Standard Class,Consumer,United States,Los Angeles,California,90032,West,Office Supplies,Paper,12.96,2,0,6.2208,,not_a_date
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Bookcases,323.136,4,0.2,12.1176,,10-23-23
+Standard Class,Consumer,United States,New York City,New York,10009,East,Technology,Phones,90.93,7,0,2.7279,,not_a_date
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,52.776,3,0.2,19.791,,19 Dec 2023
+Standard Class,Home Office,United States,Jackson,Michigan,49201,Central,Technology,Phones,1199.8,4,0,323.946,,2023-03-18
+Standard Class,Home Office,United States,Jackson,Michigan,49201,Central,Technology,Accessories,1928.78,7,0,829.3754,,07 Aug 2024
+Standard Class,Home Office,United States,Jackson,Michigan,49201,Central,Office Supplies,Storage,352.38,2,0,81.0474,Check Later,08-24-23
+Standard Class,Home Office,United States,Norwich,Connecticut,6360,East,Furniture,Furnishings,22.2,6,0,9.102,,14/12/2023
+First Class,Corporate,United States,Milwaukee,Wisconsin,53209,Central,Furniture,Furnishings,46.94,1,0,19.2454,Check Later,02 Jan 2023
+First Class,Corporate,United States,Milwaukee,Wisconsin,53209,Central,Technology,Accessories,143.73,9,0,56.0547,,23 May 2024
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Furniture,Tables,99.918,2,0.3,-18.5562,,not_a_date
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Furniture,Chairs,797.944,4,0.3,-56.996,,07-24-23
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Office Supplies,Binders,8.568,3,0.8,-14.5656,,not_a_date
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Office Supplies,Envelopes,149.352,3,0.2,50.4063,Check Later,Dec-23
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Office Supplies,Storage,12.992,1,0.2,-0.812,,Feb-24
+Standard Class,Consumer,United States,Alexandria,Virginia,22304,South,Office Supplies,Storage,99999,2,0,6.8768,,not_a_date
+Standard Class,Consumer,United States,New York City,New York,10009,East,Technology,Accessories,85.14,3,0,34.9074,,not_a_date
+Standard Class,Consumer,United States,New York City,New York,10009,East,Technology,Phones,21.99,1,0,10.5552,,03/05/2023
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Appliances,406.6,5,0,113.848,,2024-06-06
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Binders,841.568,2,0.2,294.5488,Check Later,2023-01-31
+First Class,Consumer,United States, nan ,Pennsylvania,19143,East,Office Supplies,Paper,15.552,3,0.2,5.4432,,not_a_date
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Technology,Accessories,252,5,0.2,53.55,,28/05/2024
+Standard Class,Home Office,United States,Springfield,Virginia,22153,South,Office Supplies,Art,46.2,4,0,12.936,Check Later,18/03/2024
+Standard Class,Home Office,United States,Springfield,Virginia,22153,South,Office Supplies,Appliances,28.84,2,0,9.5172,Check Later,10/11/2023
+First Class,Consumer,United States,Toledo,Ohio,43615,East,Office Supplies,Art,14.592,3,0.2,2.5536,Check Later,not_a_date
+First Class,Consumer,United States,Toledo,Ohio,43615,East,Office Supplies,Art,89.856,3,0.2,21.3408,,01-24-24
+First Class,Consumer,United States,Toledo,Ohio,43615,East,Office Supplies,Paper,13.872,3,0.2,5.0286,,29 Nov 2024
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,12.192,3,0.2,4.1148,,01-04-24
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Paper,45.056,8,0.2,15.2064,,Dec-23
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,29.718,6,0.7,-21.7932,Check Later,not_a_date
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Paper,15.552,3,0.2,5.4432,,Nov-23
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Appliances,447.696,2,0.2,33.5772,,28 Jan 2024
+First Class,Corporate,United States,Farmington,New Mexico,87401,West,Technology,Accessories,159.99,1,0,54.3966,,09 Oct 2023
+Standard Class,Corporate,United States,Riverside,California,92503,West,Office Supplies,Paper,12.96,2,0,6.2208,,not_a_date
+Standard Class,Corporate,United States,Riverside,California,92503,West,Office Supplies,Appliances,134.48,4,0,34.9648,Check Later,2024-05-09
+First Class,Corporate,United States,San Francisco,California,94110,West,Office Supplies,Paper,17.12,2,0,8.0464,Check Later,not_a_date
+Standard Class,Corporate,United States,Torrance,California,90503,West,Office Supplies,Binders,6.096,2,0.2,2.2098,,10/11/2024
+Standard Class,Corporate,United States,Torrance,California,90503,West,Furniture,Tables,1114.272,4,0.2,41.7852,,2023-01-11
+Standard Class,Consumer,United States,Seattle,Washington,98105,West,Office Supplies,Paper,32.4,5,0,15.552,,05/01/2023
+Standard Class,Consumer,United States,Seattle,Washington,98105,West,Office Supplies,Storage,540.57,3,0,140.5482,,Jan-24
+Standard Class,Consumer,United States,Seattle,Washington,98105,West,Office Supplies,Binders,167.76,5,0.2,62.91,Check Later,15 Oct 2023
+First Class,Consumer,United States,Mesa,Arizona,85204,West,Furniture,Tables,393.165,3,0.5,-204.4458,,not_a_date
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,516.488,7,0.2,-12.9122,,Aug-23
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,1007.232,6,0.2,75.5424,,not_a_date
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Tables,2065.32,12,0.4,-619.596,,2023-04-19
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Paper,15.552,3,0.2,5.4432,,2023-07-17
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Paper,25.344,6,0.2,7.92,Check Later,2023-01-30
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,25.472,4,0.2,7.6416,Check Later,06/09/2024
+Standard Class,Consumer,United States,Round Rock,Texas,78664,Central,Office Supplies,Art,27.168,2,0.2,2.7168,,2024-05-15
+Standard Class,Consumer,United States,Round Rock,Texas,78664,Central,Eletronics,Bookcases,78.8528,2,0.32,-11.596,,29 Mar 2024
+Standard Class,Consumer,United States,Jackson,Mississippi,39212,South,Office Supplies,Storage,173.8,5,0,43.45,,Jun-24
+Second Class,Consumer,United States,Phoenix,Arizona,85023,West,Technology,Phones,29.592,1,0.2,2.5893,,not_a_date
+Second Class,Consumer,United States,Phoenix,Arizona,85023,West,Office Supplies,Binders,4.752,2,0.7,-3.168,,not_a_date
+Second Class,Consumer,United States,Phoenix,Arizona,85023,West,Office Supplies,Paper,15.552,3,0.2,5.6376,Check Later,15 Feb 2023
+Same Day,Consumer,United States,Oceanside,California,92054,West,Furniture,Furnishings,204.6,2,0,53.196,,02-12-23
+Standard Class,Corporate,United States,San Francisco,California,94110,West,Furniture,Chairs,321.568,2,0.2,28.1372,,13 Dec 2023
+Standard Class,Home Office,United States,Fayetteville,Arkansas,72701,South,Office Supplies,Binders,6.24,2,0,3.0576,Check Later,2024-11-16
+First Class,Corporate,United States,San Francisco,California,94110,West,Office Supplies,Envelopes,21.88,2,0,10.94,Check Later,Oct-23
+Second Class,Consumer,United States,Boca Raton,Florida,33433,South,Office Supplies,Labels,4.608,2,0.2,1.6704,,not_a_date
+First Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Labels,9.82,2,0,4.8118,Check Later,Apr-23
+First Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Art,35.97,3,0,9.7119,,Dec-23
+First Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Paper,12.96,2,0,6.2208,,not_a_date
+First Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Paper,191.6,4,0,91.968,,30/09/2024
+First Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Labels,8.64,3,0,4.2336,Check Later,Aug-24
+First Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Storage,501.81,3,0,0,,10-12-24
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,127.104,6,0.2,28.5984,,2024-07-16
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,124.2,3,0.4,-31.05,Check Later,02-09-23
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,18.588,2,0.7,-13.6312,,2024-05-20
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Labels,30.072,3,0.2,10.1493,,2023-01-01
+Second Class,Home Office,United States,New York City,New York,10011,East,Technology,Phones,160.93,7,0,3.2186,Check Later,Jul-24
+Second Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Binders,75.792,3,0.2,25.5798,Check Later,2024-12-25
+Standard Class,Consumer,United States,Portland,Oregon,97206,West,Office Supplies,Binders,1.08,2,0.7,-0.792,,05/02/2023
+First Class,Corporate,United States,Detroit,Michigan,48205,Central,Technology,Machines,3059.982,2,0.1,679.996,,Apr-24
+First Class,Consumer,United States,Wilmington,North Carolina,28403,South,Office Supplies,Binders,3.282,2,0.7,-2.6256,Check Later,2024-06-02
+First Class,corporate,United States,Columbus,Indiana,47201,Central,Office Supplies,Paper,,3,0,16.6698,,15/10/2023
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Chairs,599.292,6,0.1,93.2232,,14/10/2023
+Second Class,Consumer,United States,Louisville,Colorado,80027,West,Office Supplies,Art,3.392,1,0.2,0.8056,,01-26-23
+Second Class,Consumer,United States,Louisville,Colorado,80027,West,Technology,Phones,559.984,2,0.2,55.9984,,02/11/2023
+Second Class,Consumer,United States,Louisville,Colorado,80027,West,Furniture,Chairs,603.92,5,0.2,75.49,Check Later,not_a_date
+Standard Class,Home Office,United States,Pasadena,Texas,77506,Central,Office Supplies,Labels,7.968,2,0.2,2.5896,,2024-10-19
+Standard Class,Home Office,United States,Pasadena,Texas,77506,Central,Office Supplies,Envelopes,27.968,4,0.2,9.4392,,Dec-23
+Standard Class,Home Office,United States,Pasadena,Texas,77506,Central,Technology,Machines,336.51,3,0.4,44.868,Check Later,not_a_date
+Same Day,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Binders,1.112,2,0.8,-1.8904,,2024-11-14
+Standard Class,Corporate,United States,Auburn,New York,13021,East,Furniture,Furnishings,520.05,5,0,72.807,,not_a_date
+Standard Class,Corporate,United States,Auburn,New York,13021,East,Office Supplies,Art,17.97,3,0,5.2113,,not_a_date
+Second Class,Home Office,United States,Jacksonville,Florida,32216,South,Furniture,Chairs,1166.92,5,0.2,131.2785,,not_a_date
+First Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,14.624,2,0.2,5.484,,2024-12-09
+First Class,Consumer,United States,San Jose,California,95123,West,Office Supplies,Fasteners,10.23,3,0,4.9104,,May-23
+First Class,Consumer,United States,San Jose,California,95123,West,Office Supplies,Paper,154.9,5,0,69.705,Check Later,29/10/2023
+Standard Class,Corporate,United States,Virginia Beach,Virginia,23464,South,Office Supplies,Binders,2715.93,7,0,1276.4871,,2024-08-03
+Standard Class,Corporate,United States,Virginia Beach,Virginia,23464,South,Technology,Phones,617.97,3,0,173.0316,Check Later,11 Oct 2024
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,Office Supplies,Envelopes,10.67,1,0,4.9082,,2023-12-16
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,Office Supplies,Storage,36.63,3,0,9.8901,Check Later,not_a_date
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,Furniture,Furnishings,24.1,5,0,9.158,,11 Sep 2024
+Standard Class,Consumer,United States,Atlanta,Georgia,30318,South,Office Supplies,Art,8.34,3,0,2.1684,,14 Jan 2024
+Standard Class,Consumer,United States,,Pennsylvania,19134,East,Office Supplies,Art,21.168,9,0.2,2.3814,Check Later,2024-09-14
+Second Class,Consumer,United States,Auburn,New York,13021,East,Technology,Phones,35.12,4,0,9.1312,,25 Apr 2023
+Same Day,Corporate,United States,Manchester,Connecticut,6040,East,Office Supplies,Storage,104.79,7,0,29.3412,,2024-01-14
+Second Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,4.044,3,0.6,-2.8308,,09 Mar 2023
+Standard Class,Home Office,United States,Springfield,Virginia,22153,South,Office Supplies,Appliances,28.84,2,0,9.5172,,not_a_date
+Second Class,Corporate,United States,Houston,Texas,77036,Central,Technology,Machines,3059.982,3,0.4,-509.997,,01 Jan 2023
+First Class,Consumer,United States,Edmonds,Washington,98026,West,Office Supplies,Art,11.52,4,0,3.2256,,05-23-24
+Standard Class,Home Office,United States,New York City,New York,10024,East,Technlogy,Machines,3991.98,2,0,1995.99,,19/02/2024
+Standard Class,Consumer,United States,New Albany,Indiana,47150,Central,Office Supplies,Binders,38.22,6,0,17.9634,Check Later,2024-06-19
+Second Class,Consumer,United States,Columbus,Indiana,47201,Central,Furniture,Furnishings,2.91,1,0,1.3677,,Jun-23
+Standard Class,Corporate,United States,San Francisco,California,94122,West,Office Supplies,Envelopes,10.86,3,0,5.1042,,12-17-24
+Standard Class,Consumer,United States,Chicago,Illinois,60610,Central,Furniture,Furnishings,8.792,1,0.6,-5.7148,Check Later,Dec-23
+Standard Class,Consumer,United States,San Francisco,California,94122,West,Technology,Phones,47.976,3,0.2,4.7976,,23/10/2024
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Binders,841.568,2,0.2,294.5488,N/A,06/04/2023
+Standard Class,Consumer,United States,Roseville,California,95661,West,Office Supplies,Paper,20.04,3,0,9.6192,,21/10/2024
+Standard Class,Consumer,United States,Aurora,Colorado,80013,West,Furniture,Furnishings,102.36,3,0.2,-3.8385,,2023-10-18
+Standard Class,consumer,United States,Los Angeles,California,90032,West,Office Supplies,Art,,4,0,1.9656,,02/07/2024
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Phones,143.982,3,0.4,-28.7964,,06-08-23
+Standard Class,Consumer,United States,Costa Mesa,California,92627,West,Office Supplies,Binders,119.616,8,0.2,40.3704,Check Later,2023-10-25
