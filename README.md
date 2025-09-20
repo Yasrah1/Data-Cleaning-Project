@@ -29,7 +29,7 @@ This is my first data cleaning project. I worked on cleaning an Amazon sales dat
 
 • Outliers that were reasonable (such as negative profit from clearance sales) were deliberately kept.
 
-• This project focused on practising basic cleaning skills in SQL and Excel/Pandas.
+• This project focused on practising basic cleaning skills in MySQL
 
 📂 Files
 
